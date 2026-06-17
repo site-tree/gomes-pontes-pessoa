@@ -14,153 +14,6 @@
 1 FILE familia.ged
 1 _PROJECT_GUID K82A65PG-1D81-A047-V6AA-V6AA785FN120
 1 _EXPORTED_FROM_SITE_ID 1696718236
-0 @I500001@ INDI
-1 _UPD 29 MAY 2026 07:59:10 GMT -0500 
-1 NAME Verônica /Luiz de Sousa/
-2 GIVN Verônica
-2 SURN Luiz de Sousa
-2 _MARNM Luiz de Sousa Pessoa
-1 SEX F
-1 BIRT
-2 DATE 12 JUL 1982
-2 PLAC Rio de Janeiro, Brasil
-2 NOTE Brasil
-1 RESI
-2 EMAIL vlspessoa@@gmail.com
-1 RESI
-2 ADDR
-3 ADR1 Rua da Tronqueira, 23
-3 CITY Rabo de Peixe
-3 CTRY Portugal
-3 STAE Casado (a)
-3 POST 9600175
-1 RESI
-2 PHON +351961613192
-1 EDUC Superior Completo em Ciências da Compputação
-1 RELI Christian
-1 NATI Brasileira
-1 EVEN Direita
-2 TYPE Political view
-1 DSCR <DSCR><HAIR>Brown</HAIR><EYES>Brown</EYES><WEIGHT>80</WEIGHT><HEIGHT>168</HEIGHT></DSCR>
-1 FAMS @F500002@
-1 SOUR @S500004@
-2 PAGE https://www.myheritage.com.br/research/collection-40000/arvore-genealogica-mundial-geni?itemId=827716694&action=showRecord&perm_id=T_dqnay75m9f699d8a_qa495399c7sd8a69
-2 QUAY 4
-2 DATA
-3 DATE 15 MAY 2026
-3 TEXT &lt;Private&gt; Luiz de Sousa
-4 CONC Mãe: Luzia Helena dos Santos Luiz
-4 CONC Pais: &lt;&lt;Private&gt;&gt; Ferreira de Sousa
-4 CONC Cônjuge: &lt;&lt;Private&gt;&gt; Pontes Pessoa
-4 CONC Filhos: &lt;&lt;Private&gt;&gt; Sousa Freire, &lt;&lt;Private&gt;&gt; Pessoa de Sousa Venancio, &lt;&lt;Private&gt;&gt; Pessoa de Sousa Barbosa, &lt;&lt;Private&gt;&gt; Gomes Pontes Pessoa, &lt;&lt;Pr
-4 CONC ivate&gt;&gt; Gomes Pontes Pessoa
-4 CONC Irmãos: &lt;&lt;Private&gt;&gt; Luiz de sousa, &lt;&lt;Private&gt;&gt; Luiz de sousa
-2 EVEN Record
-3 ROLE 40000:827716694:
-1 SOUR @S500003@
-2 PAGE https://www.myheritage.com.pt/profile-OYYV7HPM5QQY36Y4NA473VOHUZWAORA-2000002/veronica-luiz-de-sousa
-2 QUAY 3
-2 DATA
-3 TEXT Adicionada por confirmação de uma Smart Match
-2 EVEN Smart Matching
-3 ROLE 2000002
-1 SOUR @S500003@
-2 PAGE https://www.myheritage.com.br/profile-OYYV7HPM5QQY36Y4NA473VOHUZWAORA-2000002/veronica-luiz-de-sousa
-2 QUAY 3
-2 DATA
-3 TEXT Adicionado através de confirmação de uma Smart Match
-2 EVEN Smart Matching
-3 ROLE 2000002
-1 SOUR @S500003@
-2 PAGE https://www.myheritage.com.br/profile-OYYV7HPM5QQY36Y4NA473VOHUZWAORA-2000002/veronica-luiz-de-sousa
-2 QUAY 3
-2 DATA
-3 TEXT Adicionado através de confirmação de uma Smart Match
-2 EVEN Smart Matching
-3 ROLE 2000002
-1 SOUR @S500003@
-2 PAGE https://www.myheritage.com.br/profile-OYYV7HPM5QQY36Y4NA473VOHUZWAORA-2000002/veronica-luiz-de-sousa
-2 QUAY 3
-2 DATA
-3 TEXT Adicionado através de confirmação de uma Smart Match
-2 EVEN Smart Matching
-3 ROLE 2000002
-1 SOUR @S500010@
-2 PAGE https://www.myheritage.com.br/profile-OYYV6SJVTRSDW4DUOBEQY5TOXSYUYRY-1000005/veronica-luiz-de-sousa
-2 QUAY 3
-2 DATA
-3 TEXT Adicionado através de confirmação de uma Smart Match
-2 EVEN Smart Matching
-3 ROLE 1000005
-1 SOUR @S500010@
-2 PAGE https://www.myheritage.com.br/profile-OYYV6SJVTRSDW4DUOBEQY5TOXSYUYRY-1000005/veronica-luiz-de-sousa
-2 QUAY 3
-2 DATA
-3 TEXT Adicionado através de confirmação de uma Smart Match
-2 EVEN Smart Matching
-3 ROLE 1000005
-1 SOUR @S500010@
-2 PAGE https://www.myheritage.com.br/profile-OYYV6SJVTRSDW4DUOBEQY5TOXSYUYRY-1000005/veronica-luiz-de-sousa
-2 QUAY 3
-2 DATA
-3 TEXT Adicionado através de confirmação de uma Smart Match
-2 EVEN Smart Matching
-3 ROLE 1000005
-1 SOUR @S500010@
-2 PAGE https://www.myheritage.com.br/profile-OYYV6SJVTRSDW4DUOBEQY5TOXSYUYRY-1000005/veronica-luiz-de-sousa
-2 QUAY 3
-2 DATA
-3 TEXT Adicionado através de confirmação de uma Smart Match
-2 EVEN Smart Matching
-3 ROLE 1000005
-1 SOUR @S500010@
-2 PAGE https://www.myheritage.com.br/profile-OYYV6SJVTRSDW4DUOBEQY5TOXSYUYRY-1000005/veronica-luiz-de-sousa
-2 QUAY 3
-2 DATA
-3 TEXT Adicionado através de confirmação de uma Smart Match
-2 EVEN Smart Matching
-3 ROLE 1000005
-1 SOUR @S500009@
-2 PAGE https://www.myheritage.com.br/profile-OYYV6A2UEBNXJ3ZRWSLCR23DTQX6YCQ-1500014/sra-veronica-luiz-de-sousa-pessoa
-2 QUAY 3
-2 DATA
-3 TEXT Adicionado através de confirmação de uma Smart Match
-2 EVEN Smart Matching
-3 ROLE 1500014
-1 SOUR @S500012@
-2 PAGE https://www.myheritage.com.br/profile-OYYV6SJVTRSDW4DUOBEQY5TOXSYUYRY-2000005/veronica-luiz-de-sousa
-2 QUAY 3
-2 DATA
-3 TEXT Adicionado através de confirmação de uma Smart Match
-2 EVEN Smart Matching
-3 ROLE 2000005
-1 RIN MH:I500001
-1 _UID 682A17A60021F9E583AD2AD001151977
-1 OBJE
-2 FORM jpg
-2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPThlMjA0NDk1MjEwMWMyZDcxZmMzZDJjYmRiZWFhNWNiODNmZTkwNDc3NDE1OTZhNTMwMWRiMzYxODU5MDVmMWImZT0xNzgxMTg2NDAw/169/671/8236/500045_771751e1d89adfr92619r6_A.jpg
-2 _FILESIZE 960261
-2 _PRIM Y
-2 _CUTOUT Y
-2 _PARENTRIN MH:P500044
-2 _PERSONALPHOTO Y
-2 _PHOTO_RIN MH:P500045
-1 OBJE
-2 FORM jpg
-2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTUwNmMwZDU5Mjg0NWYyZDhhYzkyYTM1N2U3YzY5NWNlOWZjODA2Yzk3ZmUzNjFjMWRmNGQ2ZmYxOWQ4NzlhMDImZT0xNzgxMTg2NDAw/169/671/8236/500044_6681369b982acp6u1ds94h_A.jpg
-2 _FILESIZE 1976044
-2 TITL ilha
-2 _PRIM_CUTOUT Y
-2 _PARENTPHOTO Y
-2 _POSITION 1954 1028 4008 3082
-2 _PHOTO_RIN MH:P500044
-1 OBJE
-2 FORM jpg
-2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTI2MTIxYmI5ODQxNDhjYTJiZDExYzYwYWYwOTY3MWQ0YmU1Mzc2MDA3MTczYjZkZjVjYmQ2YzY3OWU2OWVjMmImZT0xNzgxMTg2NDAw/169/671/8236/500034_5758148ea6897oaf720vtz_A.jpg
-2 _FILESIZE 1107532
-2 TITL 100 1355
-2 _POSITION 1035 148 1786 1148
-2 _PHOTO_RIN MH:P500034
 0 @I500004@ INDI
 1 _UPD 15 MAY 2026 16:00:51 GMT -0500 
 1 NAME Leandro /Pontes Pessoa/
@@ -185,7 +38,6 @@
 3 POST 69057-063
 1 EDUC Faculdade de Medicina de Campos
 2 PLAC Faculdade de Medicina de Campos
-1 FAMS @F500002@
 1 FAMS @F500113@
 1 FAMC @F500041@
 1 SOUR @S500004@
@@ -229,229 +81,22 @@
 2 FORM jpg
 2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTk1N2VhYmI5NzE5MTM4Mjk5YzEwNzc2NzdkNjM3YzA5M2RmNDYyMWE3NDM3Mzg4NTk5NTAyNTc0ODljM2I3NTcmZT0xNzgxMTg2NDAw/169/671/8236/500002_42763741a73a86yhu1726r_A.jpg
 2 _FILESIZE 113845
-2 _PRIM Y
 2 _CUTOUT Y
 2 _PARENTRIN MH:P500001
-2 _PERSONALPHOTO Y
 2 _PHOTO_RIN MH:P500002
 1 OBJE
 2 FORM jpg
 2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTQ5ZTA4OWIzYmM3YmFjMjQ1YWU1MTY0MjFjODFlZGZmODM0N2FiZGJjYTFiZjkyYTQ3OGVlZTI5NmUxZDg3ZTYmZT0xNzgxMTg2NDAw/169/671/8236/500001_267377a1861xl863g27aij_A.jpg
 2 _FILESIZE 113843
 2 TITL my_photo
-2 _PRIM_CUTOUT Y
 2 _PARENTPHOTO Y
 2 _PHOTO_RIN MH:P500001
-0 @I500011@ INDI
-1 _UPD 15 MAY 2026 16:01:03 GMT -0500 
-1 NAME Eduardo /de Sousa Venancio/
-2 GIVN Eduardo
-2 SURN de Sousa Venancio
-1 SEX M
-1 BIRT
-2 DATE 29 MAY 1998
-2 PLAC Itapaci GO
-1 FAMC @F500002@
-1 SOUR @S500004@
-2 PAGE https://www.myheritage.com.br/research/collection-40000/arvore-genealogica-mundial-geni?itemId=827716811&action=showRecord&perm_id=T_dqnay75m9f699d8a_qa495399c7sd8a69
-2 QUAY 4
-2 DATA
-3 DATE 15 MAY 2026
-3 TEXT &lt;Private&gt; Pessoa de Sousa Venancio
-4 CONC Pais: &lt;&lt;Private&gt;&gt; Pontes Pessoa, &lt;&lt;Private&gt;&gt; Luiz de Sousa
-4 CONC Irmãos: &lt;&lt;Private&gt;&gt; Sousa Freire, &lt;&lt;Private&gt;&gt; Pessoa de Sousa Barbosa, &lt;&lt;Private&gt;&gt; Gomes Pontes Pessoa, &lt;&lt;Private&gt;&gt; Gomes Pontes Pessoa
-2 EVEN Record
-3 ROLE 40000:827716811:
-1 SOUR @S500010@
-2 PAGE https://www.myheritage.com.br/profile-OYYV6SJVTRSDW4DUOBEQY5TOXSYUYRY-1000015/eduardo-de-sousa-venancio
-2 QUAY 3
-2 DATA
-3 TEXT Adicionado através de confirmação de uma Smart Match
-2 EVEN Smart Matching
-3 ROLE 1000015
-1 SOUR @S500010@
-2 PAGE https://www.myheritage.com.br/profile-OYYV6SJVTRSDW4DUOBEQY5TOXSYUYRY-1000015/eduardo-de-sousa-venancio
-2 QUAY 3
-2 DATA
-3 TEXT Adicionado através de confirmação de uma Smart Match
-2 EVEN Smart Matching
-3 ROLE 1000015
-1 SOUR @S500003@
-2 PAGE https://www.myheritage.com.br/profile-OYYV7HPM5QQY36Y4NA473VOHUZWAORA-2000012/eduardo-de-sousa-venancio
-2 QUAY 3
-2 DATA
-3 TEXT Adicionado através de confirmação de uma Smart Match
-2 EVEN Smart Matching
-3 ROLE 2000012
-1 SOUR @S500003@
-2 PAGE https://www.myheritage.com.br/profile-OYYV7HPM5QQY36Y4NA473VOHUZWAORA-2000012/eduardo-de-sousa-venancio
-2 QUAY 3
-2 DATA
-3 TEXT Adicionado através de confirmação de uma Smart Match
-2 EVEN Smart Matching
-3 ROLE 2000012
-1 RIN MH:I500011
-1 _UID 682A73051CD6344C99B8EB1096CC2D3C
 1 OBJE
-2 FORM jpg
-2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTIyODE4MmU4NTFhODFiMGVjMmNhOTNlOGFiYTU5YmZhNDZkYTE2MDBjY2Q4ZjczN2E2ZTNkM2YwMjVhZDlkZjImZT0xNzgxMTg2NDAw/169/671/8236/500033_7333678xc1j003a76192c4_A.jpg
-2 _FILESIZE 138356
+2 FILE ./media/Captura de ecrã 2026-06-17 202159.png
+3 FORM png
+3 TITL Captura de ecrã 2026 06 17 202159
 2 _PRIM Y
-2 _CUTOUT Y
-2 _PARENTRIN MH:P500031
 2 _PERSONALPHOTO Y
-2 _PHOTO_RIN MH:P500033
-1 OBJE
-2 FORM jpg
-2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPWY1MzRkMzBhMTRlMWQ1YzNlOWRkYTcwYTE1ODBjYWVlNWQ1MDE2NzY0YThiMWM2OGUzYTZkMmUzZTViYTQ0YjcmZT0xNzgxMTg2NDAw/169/671/8236/500031_9890226r9312xlba800174_A.jpg
-2 _FILESIZE 761602
-2 TITL 100 1342
-2 _PRIM_CUTOUT Y
-2 _PARENTPHOTO Y
-2 _POSITION 709 741 1308 1539
-2 _PHOTO_RIN MH:P500031
-0 @I500012@ INDI
-1 _UPD 29 MAY 2026 08:05:51 GMT -0500 
-1 NAME Tállyta Simeia /Venancio de Sousa Godoy/
-2 GIVN Tállyta Simeia
-2 SURN Venancio de Sousa Godoy
-1 SEX F
-1 BIRT
-2 DATE 17 FEB 2000
-2 PLAC Ceres GO
-1 FAMS @F500005@
-1 FAMC @F500002@
-1 SOUR @S500004@
-2 PAGE https://www.myheritage.com.br/research/collection-40000/arvore-genealogica-mundial-geni?itemId=827716812&action=showRecord&perm_id=T_dqnay75m9f699d8a_qa495399c7sd8a69
-2 QUAY 4
-2 DATA
-3 DATE 15 MAY 2026
-3 TEXT &lt;Private&gt; Pessoa de Sousa Barbosa
-4 CONC Pais: &lt;&lt;Private&gt;&gt; Pontes Pessoa, &lt;&lt;Private&gt;&gt; Luiz de Sousa
-4 CONC Cônjuge: &lt;&lt;Private&gt;&gt; Jean Barbosa
-4 CONC Irmãos: &lt;&lt;Private&gt;&gt; Sousa Freire, &lt;&lt;Private&gt;&gt; Pessoa de Sousa Venancio, &lt;&lt;Private&gt;&gt; Gomes Pontes Pessoa, &lt;&lt;Private&gt;&gt; Gomes Pontes Pessoa
-2 EVEN Record
-3 ROLE 40000:827716812:
-1 SOUR @S500010@
-2 PAGE https://www.myheritage.com.br/profile-OYYV6SJVTRSDW4DUOBEQY5TOXSYUYRY-1000017/tallyta-simeia-venancio-de-sousa-godoy
-2 QUAY 3
-2 DATA
-3 TEXT Adicionado através de confirmação de uma Smart Match
-2 EVEN Smart Matching
-3 ROLE 1000017
-1 SOUR @S500010@
-2 PAGE https://www.myheritage.com.br/profile-OYYV6SJVTRSDW4DUOBEQY5TOXSYUYRY-1000017/tallyta-simeia-venancio-de-sousa-godoy
-2 QUAY 3
-2 DATA
-3 TEXT Adicionado através de confirmação de uma Smart Match
-2 EVEN Smart Matching
-3 ROLE 1000017
-1 SOUR @S500003@
-2 PAGE https://www.myheritage.com.br/profile-OYYV7HPM5QQY36Y4NA473VOHUZWAORA-2000013/tallyta-simeia-venancio-de-sousa-godoy
-2 QUAY 3
-2 DATA
-3 TEXT Adicionado através de confirmação de uma Smart Match
-2 EVEN Smart Matching
-3 ROLE 2000013
-1 SOUR @S500003@
-2 PAGE https://www.myheritage.com.br/profile-OYYV7HPM5QQY36Y4NA473VOHUZWAORA-2000013/tallyta-simeia-venancio-de-sousa-godoy
-2 QUAY 3
-2 DATA
-3 TEXT Adicionado através de confirmação de uma Smart Match
-2 EVEN Smart Matching
-3 ROLE 2000013
-1 SOUR @S500012@
-2 PAGE https://www.myheritage.com.br/profile-OYYV6SJVTRSDW4DUOBEQY5TOXSYUYRY-2000017/tallyta-simeia-venancio-de-sousa-godoy
-2 QUAY 3
-2 DATA
-3 TEXT Adicionado através de confirmação de uma Smart Match
-2 EVEN Smart Matching
-3 ROLE 2000017
-1 RIN MH:I500012
-1 _UID 682A734261F27DA6B8D50F3016DAFFA5
-1 OBJE
-2 FORM jpg
-2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPWNkZTc2ZWI1YWNmNDIxMDI3MWVhYzAwOWZjYmQ1M2Y2NDg3NTNhNjE2MDhlYTQzZGY2M2ZiYTY0NWRlOGQ5ZGQmZT0xNzgxMTg2NDAw/169/671/8236/500065_663715a828f1v5a9j9tf6c_A.jpg
-2 _FILESIZE 12648
-2 _PRIM Y
-2 _CUTOUT Y
-2 _PARENTRIN MH:P500064
-2 _PERSONALPHOTO Y
-2 _PHOTO_RIN MH:P500065
-1 OBJE
-2 FORM jpg
-2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTJhM2UzMTY1OGYxZTdiNzdiZThkNmQwMmUyZjZlZTIwMGVhZTY0MmU2OTE0YTIwOTc5ZDBhNDNmODNiNjIzODImZT0xNzgxMTg2NDAw/169/671/8236/500064_282989j21qffbj5869a9gm_A.jpg
-2 _FILESIZE 65602
-2 TITL dougla
-2 _PRIM_CUTOUT Y
-2 _PARENTPHOTO Y
-2 _POSITION 522 37 717 232
-2 _PHOTO_RIN MH:P500064
-1 OBJE
-2 FORM jpg
-2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPWMzZmVjOGY4ZDk1YjJkNmVhYTA3YmNmOWU3NGU3ODU4M2NlZmFjY2NmZTVhZTU4MjY4NTIyODY4MTYyZjVlODkmZT0xNzgxMTg2NDAw/169/671/8236/500028_357325weza9078206g86w5_A.jpg
-2 _FILESIZE 742995
-2 TITL 100 1339
-2 _POSITION 412 292 1498 1741
-2 _PHOTO_RIN MH:P500028
-0 @I500013@ INDI
-1 _UPD 29 MAY 2026 08:06:27 GMT -0500 
-1 NAME Helena /Jean Pessoa De Sousa Barbosa/
-2 GIVN Helena
-2 SURN Jean Pessoa De Sousa Barbosa
-1 SEX F
-1 BIRT
-2 DATE 6 JUL 2022
-1 FAMC @F500005@
-1 RIN MH:I500013
-1 _UID 682A73857B668B61F90C60010B9921DD
-1 OBJE
-2 FORM jpg
-2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPWJmMjhmNGQyNzI0YjkyMTJlZTljYjhjOGM4OTE4NzA2MzVlYzM3MDlhMjgzMTljMDM4YjdmOWQ4YjU3YjI4MTcmZT0xNzgxMTg2NDAw/169/671/8236/500067_545662b9m3fa22m698514o_A.jpg
-2 _FILESIZE 12353
-2 _PRIM Y
-2 _CUTOUT Y
-2 _PARENTRIN MH:P500066
-2 _PERSONALPHOTO Y
-2 _PHOTO_RIN MH:P500067
-1 OBJE
-2 FORM jpg
-2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPWI3NzA2NjFhNjY0MDdkODhkZGU5M2IxODk0ZjRkNmQxMGM4ODQzMWQwNDlhYjMyM2NjZjA0NGZkZTIyMGE4ZTUmZT0xNzgxMTg2NDAw/169/671/8236/500066_884951k418625j8269fz9a_A.jpg
-2 _FILESIZE 65602
-2 TITL dougla
-2 _PRIM_CUTOUT Y
-2 _PARENTPHOTO Y
-2 _POSITION 30 149 206 325
-2 _PHOTO_RIN MH:P500066
-0 @I500014@ INDI
-1 _UPD 29 MAY 2026 08:05:29 GMT -0500 
-1 NAME Douglas /Jean Barbosa/
-2 GIVN Douglas
-2 SURN Jean Barbosa
-1 SEX M
-1 BIRT
-2 DATE 3 OCT 2000
-1 FAMS @F500005@
-1 RIN MH:I500014
-1 _UID 682A7385AF941B63F90C60010B9921DD
-1 OBJE
-2 FORM jpg
-2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTQyN2M1ODhhYTI1OGVkZjBiYTk1ZWVlN2U0YjdhM2EwY2Q1ZGE1MjBmOTIzZDQwOTg3Njk3MmViOThmN2RjMTQmZT0xNzgxMTg2NDAw/169/671/8236/500063_640238vfa8796119o93j2n_A.jpg
-2 _FILESIZE 17665
-2 _PRIM Y
-2 _CUTOUT Y
-2 _PARENTRIN MH:P500062
-2 _PERSONALPHOTO Y
-2 _PHOTO_RIN MH:P500063
-1 OBJE
-2 FORM jpg
-2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTc5ODlkMmVkNGEwNmUyZmFhNWFiODM2NjY2NzQ4YmIyMzA0MjIwNDZlMjdhOGNkMjI5OGVjMmY2MjVjNzIzZjUmZT0xNzgxMTg2NDAw/169/671/8236/500062_1458542f8185a2361n9h9k_A.jpg
-2 _FILESIZE 65602
-2 TITL dougla
-2 _PRIM_CUTOUT Y
-2 _PARENTPHOTO Y
-2 _POSITION 327 47 567 287
-2 _PHOTO_RIN MH:P500062
 0 @I500097@ INDI
 1 _UPD 15 MAY 2026 16:00:52 GMT -0500 
 1 NAME Jose Maria /Pessoa/
@@ -874,26 +519,6 @@
 1 FAMC @F500113@
 1 RIN MH:I500254
 1 _UID 6A1991CE6B9EFFB9A42970CE9072A943
-0 @F500002@ FAM
-1 _UPD 18 MAY 2025 12:35:35 GMT -0500
-1 HUSB @I500001@
-1 WIFE @I500004@
-1 CHIL @I500011@
-1 CHIL @I500012@
-1 RIN MH:F500002
-1 _UID 682A1A67E1BAEA1CAC34A0E1A1EA0C2F
-1 MARR
-2 DATE 20 APR 2013
-2 PLAC Manaus
-0 @F500005@ FAM
-1 _UPD 18 MAY 2025 18:55:49 GMT -0500
-1 HUSB @I500014@
-1 WIFE @I500012@
-1 CHIL @I500013@
-1 RIN MH:F500005
-1 _UID 682A7385C9F18B64F90C60010B9921DD
-1 MARR
-2 DATE 31 MAR 2022
 0 @F500041@ FAM
 1 _UPD 15 MAY 2026 15:36:58 GMT -0500
 1 HUSB @I500097@

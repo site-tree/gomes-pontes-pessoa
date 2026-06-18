@@ -10,7 +10,7 @@
 2 _RTLSAVE RTL
 2 CORP MyHeritage.com
 1 DEST MYHERITAGE
-1 DATE 17 JUN 2026
+1 DATE 18 JUN 2026
 1 FILE familia.ged
 1 _PROJECT_GUID K82A65PG-1D81-A047-V6AA-V6AA785FN120
 1 _EXPORTED_FROM_SITE_ID 1696718236
@@ -97,6 +97,7 @@
 3 TITL Captura de ecrã 2026 06 17 202159
 2 _PRIM Y
 2 _PERSONALPHOTO Y
+1 NOTE Casamento com Érika em 27/12/1997
 0 @I500097@ INDI
 1 _UPD 15 MAY 2026 16:00:52 GMT -0500 
 1 NAME Jose Maria /Pessoa/
@@ -164,20 +165,23 @@
 2 FORM jpg
 2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPWI1YWJhODBhOTJjYmEyZDk0M2VhYmZkNjgxMTcwNDFkNTA1ZjQxMGY3ZWFlMTJiMzRlYzU3NDI3OThkYzZmZTkmZT0xNzgxMTg2NDAw/169/671/8236/500024_161579fa8m856062ux47n5_A.jpg
 2 _FILESIZE 44965
-2 _PRIM Y
 2 _CUTOUT Y
 2 _PARENTRIN MH:P500022
-2 _PERSONALPHOTO Y
 2 _PHOTO_RIN MH:P500024
 1 OBJE
 2 FORM jpg
 2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTQwOTA3OWVjZWZlYmQzZjJkMDg1MTg1MTQwMjE0NDhlYTc4NGNjNWMzZDEyOGUzYzUwMmUxMjYwYzVlODg0Y2MmZT0xNzgxMTg2NDAw/169/671/8236/500022_8027000rj8785wa6eef362_A.jpg
 2 _FILESIZE 178461
 2 TITL OgAAAPIw3xFghLwRQovFhVTVaxAucHWJL5c DY0dB0ZgWbhmPWoYQRdVESur6tWdP65M-ZVKl-kZD9YiilbIqpbuLKYAm1T1UObZ YqhPiysa5cDIx4IJ5SiQ7Eb
-2 _PRIM_CUTOUT Y
 2 _PARENTPHOTO Y
 2 _POSITION 42 111 319 480
 2 _PHOTO_RIN MH:P500022
+1 OBJE
+2 FILE ./media/jose maria.png
+3 FORM png
+3 TITL jose maria
+2 _PRIM Y
+2 _PERSONALPHOTO Y
 0 @I500098@ INDI
 1 _UPD 15 MAY 2026 16:00:52 GMT -0500 
 1 NAME Maria Jose /Pontes/
@@ -229,20 +233,23 @@
 2 FORM jpg
 2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTc0NTY1NmEzZjg0MDc0ZDlmZDVmNTlmMzM2ZjEwZjZmODNkYTFmMGI0Yzk4MmQyYmRiNjI3NDE2OGFkYzhlMmMmZT0xNzgxMTg2NDAw/169/671/8236/500021_231668wx5d8798k4fa0h16_A.jpg
 2 _FILESIZE 45359
-2 _PRIM Y
 2 _CUTOUT Y
 2 _PARENTRIN MH:P500019
-2 _PERSONALPHOTO Y
 2 _PHOTO_RIN MH:P500021
 1 OBJE
 2 FORM jpg
 2 FILE https://sites-cf.mhcache.com/e/1/az1zaXRlc192MSZzPTEzMWNlODNhNjc1ZGUxODYxYTE1M2Q0ZDA2YWI3NWNmM2E3Y2JkNGFmZWYyZjAzZTM2MDczMDQ4MmNiZjNmYmImZT0xNzgxMTg2NDAw/169/671/8236/500019_865908d4mda0ntq0458768_A.jpg
 2 _FILESIZE 131848
 2 TITL OgAAAEaMXjBGLgarozmS3hsJ9K3lz7YnNQ AboPIhIkMpkCe-eNk8hm maolhtgXigZHW UD-g9hD-uDBiPEgYUR2 0Am1T1UDlTfBF PdMXHiQEbQWjzPFBYGBp
-2 _PRIM_CUTOUT Y
 2 _PARENTPHOTO Y
 2 _POSITION 156 81 452 475
 2 _PHOTO_RIN MH:P500019
+1 OBJE
+2 FILE ./media/maria jose.png
+3 FORM png
+3 TITL maria jose
+2 _PRIM Y
+2 _PERSONALPHOTO Y
 0 @I500099@ INDI
 1 _UPD 15 MAY 2026 15:51:26 GMT -0500 
 1 NAME Jose /de Souza Pessoa/
@@ -285,18 +292,26 @@
 3 ROLE 40001:2003522943:
 1 RIN MH:I500099
 1 _UID 6A0785A4BF30ECDCA35EEA73F5DCF7B3
+1 OBJE
+2 FILE ./media/Captura de ecrã 2026-06-17 225609.png
+3 FORM png
+3 TITL Captura de ecrã 2026 06 17 225609
+2 _PRIM Y
+2 _PERSONALPHOTO Y
 0 @I500100@ INDI
 1 _UPD 15 MAY 2026 15:44:21 GMT -0500 
-1 NAME Marieta Meirelles /de Torres/
+1 NAME Maria /Torres Meirelles/
 2 NPFX Sra
-2 GIVN Marieta Meirelles
-2 SURN de Torres
+2 GIVN Maria
+2 SURN Torres Meirelles
 2 _MARNM de Torres Pessoa
 1 SEX F
 1 BIRT
 2 PLAC Laje do Muriaé
+2 DATE 16/11/1908
 1 DEAT Y
 2 PLAC Laje do Muriaé
+2 DATE 01/09/1970
 1 BURI
 2 PLAC Laje do Muriaé
 1 FAMS @F500042@
@@ -316,6 +331,7 @@
 3 ROLE 1500006
 1 RIN MH:I500100
 1 _UID 6A0785A4F02FECE3A35EEA73F5DCF7B3
+1 FAMC @F500115@
 0 @I500101@ INDI
 1 _UPD 16 MAY 2026 11:44:55 GMT -0500 
 1 NAME Eugenio Meirelles /Meirelles Pontes/
@@ -340,6 +356,7 @@
 2 EVEN Discovery
 1 RIN MH:I500101
 1 _UID 6A0785BAC2B687A64B5C87C3431B7757
+1 FAMC @F500149@
 0 @I500102@ INDI
 1 _UPD 15 MAY 2026 15:51:58 GMT -0500 
 1 NAME Odete Ferreira /Ferreira Amaro/
@@ -364,6 +381,7 @@
 2 EVEN Discovery
 1 RIN MH:I500102
 1 _UID 6A0785BB019217AB4B5C87C3431B7757
+1 FAMC @F500151@
 0 @I500104@ INDI
 1 _UPD 15 MAY 2026 15:53:54 GMT -0500 
 1 NAME Iduino /Rodrigues Pessôa/
@@ -461,6 +479,7 @@
 3 ROLE 40001:1512358994:
 1 RIN MH:I500107
 1 _UID 6A0787C80B1D066256575BD4A4CC5E57
+1 FAMC @F500118@
 0 @I500108@ INDI
 1 _UPD 15 MAY 2026 15:53:28 GMT -0500 
 1 NAME Antonia /Ferreira Pessoa/
@@ -494,6 +513,16 @@
 1 FAMC @F500113@
 1 RIN MH:I500252
 1 _UID 6A1991A32957E26AE356F16ECE460D74
+1 OBJE
+2 FILE ./media/lucas.png
+3 FORM png
+3 TITL lucas
+2 _PRIM Y
+2 _PERSONALPHOTO Y
+1 OCCU Médico
+1 BIRT Y
+2 DATE 16/04/1998
+2 PLAC Muriaé, Minas Gerais
 0 @I500253@ INDI
 1 _UPD 29 MAY 2026 08:16:45 GMT -0500 
 1 NAME Érika /Lima Gomes/
@@ -510,6 +539,17 @@
 3 ROLE 2000019
 1 RIN MH:I500253
 1 _UID 6A1991A33590126BE356F16ECE460D74
+1 OBJE
+2 FILE ./media/erika.png
+3 FORM png
+3 TITL erika
+2 _PRIM Y
+2 _PERSONALPHOTO Y
+1 BIRT Y
+2 DATE 26/04/1976
+2 PLAC Muriaé, Minas Gerais
+1 NOTE Casamento com Leandro em 27/12/1997
+1 FAMC @F500114@
 0 @I500254@ INDI
 1 _UPD 29 MAY 2026 08:17:02 GMT -0500 
 1 NAME Lara /Gomes Pontes Pessoa/
@@ -519,6 +559,16 @@
 1 FAMC @F500113@
 1 RIN MH:I500254
 1 _UID 6A1991CE6B9EFFB9A42970CE9072A943
+1 OBJE
+2 FILE ./media/lara.png
+3 FORM png
+3 TITL lara
+2 _PRIM Y
+2 _PERSONALPHOTO Y
+1 OCCU Advogada
+1 BIRT Y
+2 DATE 15/03/1999
+2 PLAC Advogada
 0 @F500041@ FAM
 1 _UPD 15 MAY 2026 15:36:58 GMT -0500
 1 HUSB @I500097@
@@ -526,6 +576,7 @@
 1 CHIL @I500004@
 1 RIN MH:F500041
 1 _UID 6A0783EA83309D09C826737F3BF8B15F
+1 CHIL @I500337@
 0 @F500042@ FAM
 1 _UPD 15 MAY 2026 15:44:20 GMT -0500
 1 HUSB @I500099@
@@ -533,6 +584,11 @@
 1 CHIL @I500097@
 1 RIN MH:F500042
 1 _UID 6A0785A4C04D7CDDA35EEA73F5DCF7B3
+1 CHIL @I500364@
+1 CHIL @I500366@
+1 CHIL @I500367@
+1 CHIL @I500368@
+1 CHIL @I500418@
 0 @F500043@ FAM
 1 _UPD 15 MAY 2026 15:44:43 GMT -0500
 1 HUSB @I500101@
@@ -540,6 +596,13 @@
 1 CHIL @I500098@
 1 RIN MH:F500043
 1 _UID 6A0785BAC4AE87A74B5C87C3431B7757
+1 CHIL @I500351@
+1 CHIL @I500352@
+1 CHIL @I500362@
+1 CHIL @I500363@
+1 CHIL @I500414@
+1 CHIL @I500429@
+1 CHIL @I500433@
 0 @F500045@ FAM
 1 _UPD 15 MAY 2026 15:47:33 GMT -0500
 1 HUSB @I500104@
@@ -547,6 +610,7 @@
 1 CHIL @I500099@
 1 RIN MH:F500045
 1 _UID 6A078664DD6D5248882F1D7DFF11457A
+1 CHIL @I500257@
 0 @F500046@ FAM
 1 _UPD 15 MAY 2026 15:53:28 GMT -0500
 1 HUSB @I500107@
@@ -614,4 +678,2775 @@
 1 TEXT <p>Árvores genealógicas do MyHeritage</p><p>Site de família: Veronica Luiz Web Site</p>Árvore genealógica: 117038831-2
 1 _TYPE Smart Matching
 1 _MEDI 117038831-2
+0 @I500255@ INDI
+1 NAME Jader /Lima Gomes/
+2 GIVN Jader
+2 SURN Lima Gomes
+1 SEX M
+1 _UID 8E6434E82B4C4453A351874CDE9E1C91
+1 FAMS @F500114@
+1 OBJE
+2 FILE ./media/jader.png
+3 FORM png
+3 TITL jader
+2 _PRIM Y
+2 _PERSONALPHOTO Y
+1 FAMC @F500173@
+0 @F500114@ FAM
+1 _UID CA00EC9E16F6477C908F4F3F426C72F5
+1 CHIL @I500253@
+1 HUSB @I500255@
+1 WIFE @I500256@
+1 CHIL @I500369@
+1 CHIL @I500370@
+1 CHIL @I500371@
+1 CHIL @I500372@
+1 CHIL @I500373@
+1 CHIL @I500375@
+0 @I500256@ INDI
+1 NAME Eunice Maria /Ramos Gomes/
+2 GIVN Eunice Maria
+2 SURN Ramos Gomes
+1 SEX F
+1 _UID E5AB14751344470B83BF1A012EB213B1
+1 FAMS @F500114@
+1 OBJE
+2 FILE ./media/eunice.png
+3 FORM png
+3 TITL eunice
+2 _PRIM Y
+2 _PERSONALPHOTO Y
+1 FAMC @F500175@
+0 @I500257@ INDI
+1 NAME Macário /de Souza Pessoa/
+2 GIVN Macário
+2 SURN de Souza Pessoa
+1 SEX M
+1 BIRT
+2 DATE 1907
+1 _UID 098B9F56B9174418A945983CB8EABAA9
+1 FAMC @F500045@
+0 @F500115@ FAM
+1 _UID A673A6BFEBBF46D8A33E817B566C0AD6
+1 CHIL @I500100@
+1 HUSB @I500262@
+1 WIFE @I500263@
+0 @I500259@ INDI
+1 NAME Orlandina /Torres meirelles/
+2 GIVN Orlandina
+2 SURN Torres meirelles
+1 SEX F
+1 _UID EFACC4D83A114EB492C22641BF1CD617
+0 @I500261@ INDI
+1 NAME Orlandina /Torres Meirelles/
+2 GIVN Orlandina
+2 SURN Torres Meirelles
+1 SEX F
+1 _UID 8FF3F202E52B49828C63CBD90CFED2DF
+0 @I500262@ INDI
+1 NAME Bolivar /Rodrigues Meirelles/
+2 GIVN Bolivar
+2 SURN Rodrigues Meirelles
+1 SEX M
+1 _UID 03297300B48643299397BCC5BD78BE70
+1 FAMS @F500115@
+1 DEAT Y
+1 FAMC @F500116@
+0 @I500263@ INDI
+1 NAME Orlandina /Torres Meirelles/
+2 GIVN Orlandina
+2 SURN Torres Meirelles
+1 SEX F
+1 _UID 1EF37F4E549A46369F22CAD623B27FB3
+1 FAMS @F500115@
+1 DEAT Y
+1 FAMC @F500148@
+0 @I500264@ INDI
+1 NAME Luis /Costa Meirelles/
+2 GIVN Luis
+2 SURN Costa Meirelles
+1 SEX M
+1 _UID 355AA64F232D42DF8F846CD9BAFF7B29
+1 FAMS @F500116@
+1 DEAT Y
+0 @F500116@ FAM
+1 _UID F099803647E54CD9871B3F3FEDE33CBE
+1 CHIL @I500262@
+1 HUSB @I500264@
+1 WIFE @I500265@
+1 CHIL @I500266@
+0 @I500265@ INDI
+1 NAME Joana /Pessoa/
+2 GIVN Joana
+2 SURN Pessoa
+1 SEX F
+1 _UID 23D80E9C772D4D2EAC6F9BDF4A8D2166
+1 FAMS @F500116@
+1 DEAT Y
+1 FAMC @F500147@
+0 @I500266@ INDI
+1 NAME João /Rodrigues Meirelles/
+2 GIVN João
+2 SURN Rodrigues Meirelles
+1 SEX M
+1 _UID 12DADA1F9D964838A8B5BD772C2FED9C
+1 FAMC @F500116@
+1 FAMS @F500117@
+1 DEAT Y
+2 DATE 05/09/1962
+0 @I500267@ INDI
+1 NAME Bárbara Lucinda /de Abreu Meirelles/
+2 GIVN Bárbara Lucinda
+2 SURN de Abreu Meirelles
+1 SEX F
+1 BIRT
+2 DATE 1884
+1 _UID EF417A0B97C2499DA4B410D4AF1A30AE
+1 FAMS @F500117@
+0 @F500117@ FAM
+1 _UID 339A5137A27D4D08B7DD569C4D8265E4
+1 HUSB @I500266@
+1 WIFE @I500267@
+0 @I500268@ INDI
+1 NAME Manuel /Rodrigues Pessoa/
+2 GIVN Manuel
+2 SURN Rodrigues Pessoa
+1 SEX M
+1 BIRT
+2 DATE 1753
+2 PLAC Além Paraíba, Minas Gerais
+1 _UID 3C0584FF791846B7AD2A242157E12CD0
+1 FAMS @F500118@
+0 @F500118@ FAM
+1 _UID 7AC8E3BE09C646C19C2544A842DC5517
+1 CHIL @I500107@
+1 HUSB @I500268@
+1 WIFE @I500269@
+1 CHIL @I500270@
+1 CHIL @I500271@
+1 CHIL @I500273@
+1 CHIL @I500274@
+1 CHIL @I500275@
+0 @I500269@ INDI
+1 NAME Joana Joaquina /Nascimento/
+2 GIVN Joana Joaquina
+2 SURN Nascimento
+1 SEX F
+1 BIRT
+2 DATE 24/10/1781
+2 PLAC Barbacena, Minas Gerais
+1 _UID 1ECF7C8212724D56A7759E4185DC55AF
+1 FAMS @F500118@
+1 DEAT Y
+2 DATE 11/09/1870
+2 PLAC Além Paraíba, Minas gerais
+1 FAMC @F500122@
+0 @I500270@ INDI
+1 NAME Francsico /Rodrigues Pessoa/
+2 GIVN Francsico
+2 SURN Rodrigues Pessoa
+1 SEX M
+1 _UID F0931DF0F1864AD99C583921C1324D10
+1 FAMC @F500118@
+0 @I500271@ INDI
+1 NAME Jose /Rodrigues Pessoa/
+2 GIVN Jose
+2 SURN Rodrigues Pessoa
+1 SEX M
+1 _UID 59B3A3AC28C346A8977B6EFFB80ED1DC
+1 FAMC @F500118@
+1 FAMS @F500119@
+1 BIRT Y
+2 DATE 1825
+1 DEAT Y
+0 @I500272@ INDI
+1 NAME Maria /de Oliveira Duarte/
+2 GIVN Maria
+2 SURN de Oliveira Duarte
+1 SEX F
+1 _UID 7A7D859BF0FE4775A6CD729CB8A000E2
+1 FAMS @F500119@
+1 DEAT Y
+0 @F500119@ FAM
+1 _UID FE4D754EE7CF4156A3E70362D6B3ADAB
+1 HUSB @I500271@
+1 WIFE @I500272@
+0 @I500273@ INDI
+1 NAME Nati-morto /Rodrigues Pessoa/
+2 GIVN Nati-morto
+2 SURN Rodrigues Pessoa
+1 SEX M
+1 BIRT
+2 DATE 1801
+1 _UID 6BD937315A584866B2494B5C89AF82AF
+1 FAMC @F500118@
+0 @I500274@ INDI
+1 NAME Manoel /Rodrigues Pessoa/
+2 GIVN Manoel
+2 SURN Rodrigues Pessoa
+1 SEX M
+1 BIRT
+2 DATE 1817
+2 PLAC Juiz de Fora, Minas Gerais
+1 _UID BE6DA879318D4074AA3C8C968E862C5E
+1 FAMC @F500118@
+1 DEAT Y
+2 DATE 05/10/1886
+2 PLAC Além Paraíba, Minas Gerais
+1 FAMS @F500121@
+0 @I500275@ INDI
+1 NAME Joaquim /Rodrigues Pessoa/
+2 GIVN Joaquim
+2 SURN Rodrigues Pessoa
+1 SEX M
+1 BIRT
+2 DATE 04/1797
+1 _UID E64E258961F946D5AF8C4D8F179802D8
+1 FAMC @F500118@
+1 DEAT Y
+1 FAMS @F500120@
+0 @I500276@ INDI
+1 NAME Angelica Maria /de Jesus/
+2 GIVN Angelica Maria
+2 SURN de Jesus
+1 SEX F
+1 BIRT
+2 DATE 1801
+2 PLAC Alem Paraiba, Minas Gerais
+1 _UID D4BD927178E74F0DA4EA3466491B7A4F
+1 FAMS @F500120@
+1 DEAT Y
+2 DATE 24/11/1861
+2 PLAC Alem Paraiba, Minas Gerais
+0 @F500120@ FAM
+1 _UID 22F48DDAFB694CD9A159AD37B70D7F6A
+1 HUSB @I500275@
+1 WIFE @I500276@
+0 @I500277@ INDI
+1 NAME Maria Cândida /da Silva/
+2 GIVN Maria Cândida
+2 SURN da Silva
+1 SEX F
+1 BIRT
+2 DATE 1828
+2 PLAC Além Paraíba, Minas Gerais, Brasil
+1 _UID 5D4E1CFB4F9E420D8CA3516AE2CF1430
+1 FAMS @F500121@
+1 DEAT Y
+2 DATE 10/12/1889
+2 PLAC Além Paraíba, Minas Gerais, Brasil
+0 @F500121@ FAM
+1 _UID D193C2CBDDEA439C94BE5EB88A7FA6FF
+1 HUSB @I500274@
+1 WIFE @I500277@
+0 @I500278@ INDI
+1 NAME Joao Afonso /Rodrigues/
+2 GIVN Joao Afonso
+2 SURN Rodrigues
+1 SEX M
+1 BIRT
+2 DATE 18/02/1723
+2 PLAC Estarreja, Aveiro, Portugal
+1 _UID 6455F198E2B34D03960E46A30206676D
+1 FAMS @F500122@
+1 DEAT Y
+2 DATE 1801
+2 PLAC Barbacena, Minas Gerais, Brasil
+1 FAMC @F500123@
+0 @F500122@ FAM
+1 _UID 95EADA0DCD554B70B33B5F665C27348D
+1 CHIL @I500269@
+1 HUSB @I500278@
+1 WIFE @I500279@
+0 @I500279@ INDI
+1 NAME Maria Joaquina /do Nascimento/
+2 GIVN Maria Joaquina
+2 SURN do Nascimento
+1 SEX F
+1 BIRT
+2 DATE 1759
+2 PLAC Ouro Branco, Minas Gerais, Brasil
+1 _UID 4039C49089B7420B83F4B370560BE140
+1 FAMS @F500122@
+1 DEAT Y
+2 DATE 1848
+2 PLAC Barbacena, Minas Gerais, Brasil
+1 FAMC @F500124@
+0 @I500280@ INDI
+1 NAME Manoel Afonso
+2 GIVN Manoel Afonso
+1 SEX M
+1 BIRT
+2 DATE 1700
+2 PLAC Aveiro, Portugal
+1 _UID 53DF3EA5CEE24C4190D381BEFBCAC578
+1 FAMS @F500123@
+0 @F500123@ FAM
+1 _UID 96085F21B000425AAADA053D2A38ACFC
+1 CHIL @I500278@
+1 HUSB @I500280@
+1 WIFE @I500281@
+0 @I500281@ INDI
+1 NAME Maria Joao
+2 GIVN Maria Joao
+1 SEX F
+1 BIRT
+2 DATE 1705
+2 PLAC Aveiro, Portugal
+1 _UID 4140FE933F3348FEB9C3ADDEB0A99C60
+1 FAMS @F500123@
+0 @I500282@ INDI
+1 NAME Manoel /dos Reis/
+2 GIVN Manoel
+2 SURN dos Reis
+1 SEX M
+1 BIRT
+2 DATE 1720
+2 PLAC Aljubarrota, Alcobaça, Leiria, Portugal
+1 _UID 1CCF884D7EFD4F7E987D8CF553CDFAFB
+1 FAMS @F500124@
+1 DEAT Y
+2 DATE 1807
+2 PLAC Ouro Preto, Minas Gerais, Brasil
+1 OCCU Militar
+1 NOTE Licenciado (Capitão) Manoel dos Reis ( c. 1730 - 1807)
+2 CONT Natural e batizado na Freguesia de Nossa Senhora dos Prazeres da Vila de Aljubarrota, 
+2 CONT Leiria, Portugal. Filho de João de Figueiredo e Marianna Rodrigues, residentes na mesma 
+2 CONT freguesia, conforme registro de casamento.
+2 CONT Se casou em 29 de maio de 1752, em Ouro Branco, com Maria da Conceição (1715-1798), filha 
+2 CONT de criação do Capitão-mor Domingos Moreira Fernandes e viúva de Francisco Gomes Xavier 
+2 CONT (1710-1752). Manoel dos Reis e sua esposa tiveram três filhos: Joaquim, Maria, Manoel.
+2 CONT Manoel dos Reis era licenciado como cirugião e possuia uma coleção particular de livros de 
+2 CONT medicina. Possui um atestado médico de próprio punho de 15 de março de 1794 encontrado 
+2 CONT no acervo da Casa dos Contos em Ouro Preto. 
+2 CONT Residia no distrito de Ouro Branco, em uma localidade que na época chamada cachoeira. 
+2 CONT Conforme documentos encontrados no Arquivo Público Mineiro, e suas respectivas fontes 
+2 CONT primárias em Ouro Preto, e no Arquivo Histórico Ultramarino de Lisboa, se tratava de uma 
+2 CONT personaliade importante na vida econômica e social na Região de Vila Rica no auge do ciclo 
+2 CONT do ouro. Em 1761, recebeu do Governador da Capitania das Minas Gerais, uma semaria de 
+2 CONT meia légua de terra na localidade de Mau Cabelo, confirmada em carta enviada para D. José 
+2 CONT I. Em Ouro Branco, possuia uma olaria, conforme recibo datato de 1801.
+2 CONT Em 10 de abril de 1794, recebeu do Visconde de Barbacena carta de patente de Capitão de 
+2 CONT Ordenança de Pé do distrito do Ouro Branco, confirmada em carta para D. Maria I em 19 de 
+2 CONT setembro de 1798.
+2 CONT Consta no arquivo da Casa do Pilar em Ouro Preto seu inventário datado no ano de 1807.
+1 FAMC @F500125@
+0 @F500124@ FAM
+1 _UID 9E193D84CC014867A9D5AD704EFBFEE4
+1 CHIL @I500279@
+1 HUSB @I500282@
+1 WIFE @I500283@
+0 @I500283@ INDI
+1 NAME Maria da Conceição /Gomes Xavier/
+2 GIVN Maria da Conceição
+2 SURN Gomes Xavier
+1 SEX F
+1 BIRT
+2 DATE 1715
+2 PLAC Ouro Branco, Minas Gerais, Brasil
+1 _UID 3CF2DC7EB9C54CB3B66A9BF879224E48
+1 FAMS @F500124@
+1 OCCU Professora
+1 DEAT Y
+2 DATE 05/03/1798
+2 PLAC Ouro Branco, Minas Gerais, Brasil
+1 NOTE Irmã professa na Irmandade da Ordem Terceira de São Francisco de Assis de Vila Rica
+2 CONT Em 1785 foi Ministra da Ordem Terceira de São Francisco de Assis de Vila Rica
+2 CONT
+2 CONT
+0 @I500284@ INDI
+1 NAME Joao /de Figueiredo/
+2 GIVN Joao
+2 SURN de Figueiredo
+1 SEX M
+1 BIRT
+2 DATE 1690
+2 PLAC Aljubarrota, Leiria, Portugal
+1 _UID 91D788B67E5D49B7A97FCBD181FCC7FA
+1 FAMS @F500125@
+1 DEAT Y
+2 DATE 1760
+0 @F500125@ FAM
+1 _UID 237BD6CD8D45453D9C95A69DC212073F
+1 CHIL @I500282@
+1 HUSB @I500284@
+1 WIFE @I500285@
+0 @I500285@ INDI
+1 NAME Mariana /Rodrigues/
+2 GIVN Mariana
+2 SURN Rodrigues
+1 SEX F
+1 BIRT
+2 DATE 1690
+2 PLAC Aljubarrota, Leiria, Portugal
+1 _UID 8AA8CCA4C076445E8276CB8C2901E853
+1 FAMS @F500125@
+1 DEAT Y
+2 DATE 1760
+1 FAMC @F500126@
+0 @I500286@ INDI
+1 NAME Domingos /Moreira Fernandes/
+2 GIVN Domingos
+2 SURN Moreira Fernandes
+1 SEX M
+1 BIRT
+2 DATE 1662
+2 PLAC Penafiel, Porto, Portugal
+1 _UID A9428FA62A9C4DFD9FC1DA60D9F74C6D
+1 FAMS @F500126@
+1 DEAT Y
+1 NOTE Foi um dos homens mais abastados do termo de Vila Rica, que abrangia Ouro Branco. Em 1722, ele tinha 41 escravos, sendo um dos maiores proprietários de escravos da região. Foi também juiz ordinário de Vila Rica desde 1729, no qual pediu exoneração em 1746, por ter idade avançada de 84 anos. Em 1721 era alferes, vereador na câmara e, também cobrador dos quintos, como também havia sido entre 1715 e 1718. Em 1722 foi almotacé, como também foi em 1717. 
+2 CONT
+1 FAMC @F500127@
+0 @F500126@ FAM
+1 _UID E063FAF6E7EF4E6AA3780581FFF22E8B
+1 CHIL @I500285@
+1 HUSB @I500286@
+1 WIFE @I500287@
+0 @I500287@ INDI
+1 NAME Luiza da Conceição /Toledo/
+2 GIVN Luiza da Conceição
+2 SURN Toledo
+1 SEX F
+1 BIRT
+2 PLAC Ouro Preto, Minas Gerais, Brasil
+1 _UID 9A09C1FBAD084DBFAAA971D210F6AB2E
+1 FAMS @F500126@
+1 DEAT Y
+1 FAMC @F500128@
+0 @I500288@ INDI
+1 NAME Manoel /Fernandes/
+2 GIVN Manoel
+2 SURN Fernandes
+1 SEX M
+1 BIRT
+2 DATE 1632
+2 PLAC Penafiel, Porto, Portugal
+1 _UID AAC47134E0C046C099D7B7DB3D538D3A
+1 FAMS @F500127@
+0 @F500127@ FAM
+1 _UID 61CC63C8AFAC461A9323031D469B52E8
+1 CHIL @I500286@
+1 HUSB @I500288@
+1 WIFE @I500289@
+0 @I500289@ INDI
+1 NAME Maria /Fernandes/
+2 GIVN Maria
+2 SURN Fernandes
+1 SEX F
+1 BIRT
+2 DATE 1640
+2 PLAC Penafiel, Porto, Portugal
+1 _UID 52AA5943B3C94B6CAB3673AE1EE5609B
+1 FAMS @F500127@
+1 DEAT Y
+0 @I500290@ INDI
+1 NAME Bartholomeu /Fialho Azevedo/
+2 GIVN Bartholomeu
+2 SURN Fialho Azevedo
+1 SEX M
+1 BIRT
+2 DATE 1700
+2 PLAC Lisboa, Portugal
+1 _UID 672487EC110F42FDBE8ED6A1001C895E
+1 FAMS @F500128@
+1 FAMC @F500129@
+1 DEAT Y
+0 @F500128@ FAM
+1 _UID 6EE4F74B1EB7459CBC53E01528698620
+1 CHIL @I500287@
+1 HUSB @I500290@
+1 WIFE @I500291@
+0 @I500291@ INDI
+1 NAME Anna /de Toledo Piza/
+2 GIVN Anna
+2 SURN de Toledo Piza
+1 SEX F
+1 BIRT
+2 DATE 1704
+2 PLAC Lisboa, Portugal
+1 _UID BAD0E3CCEF49491C95837237412011E6
+1 FAMS @F500128@
+1 FAMC @F500130@
+0 @I500292@ INDI
+1 NAME Joao /Martins/
+2 GIVN Joao
+2 SURN Martins
+1 SEX M
+1 BIRT
+2 DATE 1650
+1 _UID 6781D5C5004241D7976CF832D2E630F8
+1 FAMS @F500129@
+1 DEAT Y
+0 @F500129@ FAM
+1 _UID 6BF932E2423B423E91FBB4DC143BFFCE
+1 CHIL @I500290@
+1 HUSB @I500292@
+1 WIFE @I500293@
+0 @I500293@ INDI
+1 NAME Luzia /Galharda/
+2 GIVN Luzia
+2 SURN Galharda
+1 SEX F
+1 BIRT
+2 DATE 1660
+2 PLAC Évora, Portugal
+1 _UID A3A94CE60EBF452C9161BB12DA9E6185
+1 FAMS @F500129@
+1 DEAT Y
+0 @I500294@ INDI
+1 NAME Joao /Vaz Cardoso/
+2 GIVN Joao
+2 SURN Vaz Cardoso
+1 SEX M
+1 BIRT
+2 DATE 18 de setembro de 1661
+2 PLAC São Paulo, São Paulo, Brasil
+1 _UID 69920D8D3AC24FCA839D3FDDDCA99DFF
+1 FAMS @F500130@
+1 DEAT Y
+2 DATE 25 de setembro de 1745
+2 PLAC Taubaté, São Paulo, Brasil
+1 NOTE 1-2 Capitão João Vaz Cardoso, f.º do Cap. 3.º, foi morador na villa de Taubaté, onde foi do governo da terra e de muita estimação e respeito. Foi familiar do Santo Ofício, e faleceu nessa vila, onde foi casado com Francisca de Freitas Cortez f.ª do capitão Amaro Gil Cortez e de Marianna de Freitas. Tit. Dias. Teve 8 filhos.
+2 CONT
+1 FAMC @F500131@
+0 @F500130@ FAM
+1 _UID 16271B6CB10242749E420E69B0078614
+1 CHIL @I500291@
+1 HUSB @I500294@
+1 WIFE @I500295@
+0 @I500295@ INDI
+1 NAME Francisca /de Freitas Cortez/
+2 GIVN Francisca
+2 SURN de Freitas Cortez
+1 SEX F
+1 BIRT
+2 DATE 1673
+2 PLAC Taubaté, São Paulo, São Paulo, Brasil
+1 _UID 10EE1BD67EA3430EBF734EC92DCBDB95
+1 FAMS @F500130@
+1 DEAT Y
+2 DATE 08/04/1763
+0 @I500296@ INDI
+1 NAME Joao /Vaz da Cunha Cardoso/
+2 GIVN Joao
+2 SURN Vaz da Cunha Cardoso
+1 SEX M
+1 BIRT
+2 DATE 1635
+2 PLAC São Paulo, São Paulo, Brasil
+1 _UID 69A7964E99E1494F88EBEC37D6E892F4
+1 FAMS @F500131@
+1 DEAT Y
+2 DATE 1710
+2 PLAC São Paulo, São Paulo, Brasil
+1 NOTE 2-3 Capitão João Vaz Cardoso, f.º do § 4.º, foi casado com Anna Ribeiro Rodovalho, f.ª de dom Simão de Toledo Piza e de Maria Pedroso. Com geração em Tit. Toledos Pizas, neste V. adiante.
+2 CONT
+1 FAMC @F500132@
+0 @F500131@ FAM
+1 _UID 0032967FD6D34421A903DA1941A9AAE7
+1 CHIL @I500294@
+1 HUSB @I500296@
+1 WIFE @I500297@
+0 @I500297@ INDI
+1 NAME Ana /Ribeiro Rodovalho de Toledo/
+2 GIVN Ana
+2 SURN Ribeiro Rodovalho de Toledo
+1 SEX F
+1 BIRT
+2 DATE 16 de setembro de 1643
+2 PLAC São Paulo, São Paulo, Brasil
+1 _UID 289A4A3A9BCF45BC81AB13CB4858825C
+1 FAMS @F500131@
+1 DEAT Y
+2 DATE 1685
+2 PLAC São Paulo, São Paulo, Brasil
+1 NOTE Anna Ribeiro Rodovalho, batizada em 1643, casou com o capitão João Vaz Cardoso, f.º de Christovão da Cunha de Unhatte e de Mercia Vaz Cardoso. Neste à pág. 148. Teve 14 filhos que são:
+2 CONT 1-1 Dom Simão de Toledo Piza § 1.º
+2 CONT 1-2 João Vaz Cardoso § 2.º
+2 CONT 1-3 Christovão da Cunha § 3.º
+2 CONT 1-4 Vasco Fernandes Rodovalho § 4.º
+2 CONT 1-5 Sebastião Fernandes Correa 5.º
+2 CONT 1-6 Pantaleão Pedroso de Toledo 6.º
+2 CONT 1-7 Francisco de Freitas de Toledo § 7.º
+2 CONT 1-8 Maria Vaz Cardoso § 8.º
+2 CONT 1-9 Maria Pedroso 9.º
+2 CONT 1-10 Anna Ribeiro § 10.º
+2 CONT 1-11 Catharina de Freitas § 11.º
+2 CONT 1-12 Andreza de Toledo § 12.º
+2 CONT 1-13 Joanna Maria de Toledo § 13.º
+2 CONT 1-14 Manoel de Toledo § 14.º
+1 FAMC @F500142@
+0 @I500298@ INDI
+1 NAME Cristóvão /da Cunha de Unhate/
+2 GIVN Cristóvão
+2 SURN da Cunha de Unhate
+1 SEX M
+1 BIRT
+2 DATE 1604
+2 PLAC São Paulo, Brasil
+1 _UID 336D9927532641628BFE536FEB96BF24
+1 FAMS @F500132@
+1 DEAT Y
+2 DATE 1664
+2 PLAC São Paulo, Brasil
+1 NOTE 1-4 Christovão da Cunha de Unhatte, f.º do Cap. 4.º e 2.ª mulher, foi casado com Mecia Vaz Cardoso, f.ª de Gaspar Vaz Guedes e de Francisca Cardoso. Tit. Vaz Guedes. Faleceu em 1664 e teve 11 f.ºs:
+2 CONT
+2 CONT 2-1 Catharina de Unhatte, casada em 1642 em S. Paulo com Antonio Lopes de Medeiros, f.º de Mathias Lopes e de Catharina de Medeiros. Com geração no V. 2.º pág. 10.
+2 CONT 2-2 Gaspar Vaz da Cunha (o Jaguareté de alcunha) foi casado com Victoria de Siqueira (cremos) f.ª de Lourenço de Siqueira de Mendonça e de Margarida Rodrigues. Tit. Siqueiras Mendonças Cap. 1.º § 8.º.
+2 CONT 2-3 Capitão João Vaz Cardoso, f.º do § 4.º, foi casado com Arma Ribeiro Rodovalho, f.ª de dom Simão de Toledo Piza e de Maria Pedroso. Com geração em Tit. Toledos Pizas, neste V. adiante.
+2 CONT 2-4 Maria Vaz da Cunha, f.ª do § 4.º, foi casada com José Pedroso, f.º de João Pedroso de Moraes e de Maria de Lima. Com geração em Tit. Moraes.
+2 CONT 2-5 Maria da Cunha, f.ª do § 4.º, foi 1.º casada com Fernão de Siqueira, 2.ª vez com Francisco Rodrigues do Prado, † em 1668 com testamento. 
+2 CONT 2-6 Maria Cardoso, f.ª do § 4.º, foi casada com Francisco Xavier Pedroso, irmão de José Pedroso do n.º 2-4. Tit. Moraes.
+2 CONT 2-7 Christovão da Cunha, f.º do § 4.º, faleceu em 1697 e foi casado com Maria de Moraes Barros, † em 1731, f.ª do capitão Pedro de Sousa Barros e de Marianna Pedroso de Moraes.
+2 CONT 2-8 Francisco da Cunha Vaz, f.º de Christovão da Cunha de Unhatte § 4.º, foi casado três vezes: a 1.ª com Marianna de Lara, f.ª de Francisco Martins Bonilha e de Anna de Lara, Tit. Martins Bonilhas; 2.ª vez com Maria Antunes, e 3.ª vez com Maria Pires de Siqueira.
+2 CONT 2-9 Francisca Cardoso, f.ª do § 4.º, foi casada com João Rodrigues Lopes, f.º de outro de igual nome e de Joanna Simôa Rodrigues. Com geração em Tit. Rodrigues Lopes.
+2 CONT 2-10 Domingas da Cunha foi casada com Manoel Rodrigues Lopes, irmão de João do n .º precedente. Faleceu em 1716, e teve geração em Tit. Rodrigues Lopes.
+2 CONT 2-11 Anna Vaz da Cunha, última f.ª de Christovão da Cunha de Unhatte § 4.º 
+2 CONT
+2 CONT Fonte: Genealogia Paulistana, Silva Leme, Volume V - Pág. 171 a 213, Título Cunhas Gagos. 
+2 CONT
+2 CONT http://www.arvore.net.br/Paulistana/CGagos_4.htm (Páginas 136 adiante)
+1 FAMC @F500133@
+0 @F500132@ FAM
+1 _UID AA03CA5F4DAC43C99FA953D2CD460F40
+1 CHIL @I500296@
+1 HUSB @I500298@
+1 WIFE @I500299@
+0 @I500299@ INDI
+1 NAME Mecia /Vaz Cardoso/
+2 GIVN Mecia
+2 SURN Vaz Cardoso
+1 SEX F
+1 BIRT
+2 DATE 1603
+2 PLAC São Paulo, São Paulo, Brazil
+1 _UID D5F08B4B6F7B4BF1ADBE5098BE7D4EE8
+1 FAMS @F500132@
+1 DEAT Y
+2 DATE 30/10/1667
+2 PLAC São Paulo, São Paulo, Brazil
+1 FAMC @F500139@
+0 @I500300@ INDI
+1 NAME Henrique /da Cunha Gago/
+2 GIVN Henrique
+2 SURN da Cunha Gago
+1 SEX M
+1 BIRT
+2 DATE 1560
+2 PLAC São Vicente, São Paulo, Brasil
+1 _UID C011486FDD3849BBB4B633F9EA559CB2
+1 FAMS @F500133@
+1 DEAT Y
+2 DATE 15 de fevereiro de 1624
+2 PLAC Cuiabá, Mato Grosso, Brasil
+1 NOTE Henrique da Cunha Gago (o velho) nascido perto de Santos em 1560, foi morador em S. Paulo de Piratininga onde faleceu em 1624, tendo sido casado 3 vezes: a 1.ª com Izabel Fernandes falecida em 1599, f.ª do capitão Salvador Pires e de sua 2.ª mulher Mecia Fernandes (Mecia-ussú), V. 2.º pág. 123; 2.ª vez foi casado com Catharina de Unhatte, f.ª de Luiz de Unhatte e de Maria Antunes, n. p. de Diogo de Unhatte, escrivão da ouvidoria e fazenda da capitania de S. Vicente e fundador de Paranaguá; 3.ª vez foi casado com Maria de Piña, viúva de João de Almeida, f.ª de Braz de Piña. Sem geração desta 3.ª mulher, porém teve
+2 CONT Da 1.ª:
+2 CONT Capitão Henrique da Cunha Gago o (moço) § 1.º
+2 CONT João Gago da Cunha § 2.º
+2 CONT Manoel da Cunha Gago § 3.º
+2 CONT Da 2.ª:
+2 CONT Christovão da Cunha de Unhatte § 4.º
+2 CONT Antonio da Cunha Gago (o Gambeta) § 5.º
+2 CONT Francisco da Cunha § 6.º
+2 CONT Maria da Cunha § 7.º
+2 CONT Filippa da Cunha Gago § 8.º
+2 CONT Subsídios à Genealogia Paulistana (Regina Junqueira) Henrique da Cunha teve, além dos filhos legítimos citados por Silva Leme, em negras da terra, os filhos: - Estevão da Cunha, filho natural, havido em solteiro. e os adulterinos: - Antonia - Ursula - Antonio
+2 CONT HENRIQUE DA CUNHA Inventário e Testamento
+2 CONT http://www.projetocompartilhar.org/SAESPp/henriquedacunha1624izabelfernandes1599catarinadeunhate1613.htm
+2 CONT Henrique da Cunha Gago
+2 CONT Origem: Wikipédia, a enciclopédia livre. (http://pt.wikipedia.org/wiki/Henrique_da_Cunha_Gago)
+2 CONT Henrique da Cunha Gago foi um bandeirante. Nasceu em 1560 em São Vicente e fez seu testamento em São Paulo em 18 de novembro de 1623, morrendo no ano seguinte.
+2 CONT Sua família e descendência constam da «Genealogia Paulistana» de Silva Leme, no volume V. Segundo Silva Leme, seu pai Henrique da Cunha era amigo do almirante português Martim Afonso de Sousa, que com ele passou a São Vicente em 1531 trazendo sua mulher Filipa Gago. Henrique da Cunha pertencia à família dos Cunhas, os quais dizem proceder de D. Fruela II rei de Leão, Astúrias e Galiza no ano de 923. Já Filipa Gago era parenta próxima do primeiro capitão-mor governador-locotenente do donatário da capitania de São Vicente, Antônio de Oliveira, cavalheiro fidalgo da casa de el-rei D. João III de Portugal. Tiveram cinco filhos, que foram Isabel da Cunha, Maria da Cunha, Marta da Cunha, este Henrique da Cunha Gago objeto do presente verbete e ainda João da Cunha Gago.
+2 CONT Henrique da Cunha Gago, que acabaria sendo referido por O Velho, porque teve um filho com o mesmo nome a quem se referiam como O Moço, foi morador de São Paulo de Piratininga e casou três vezes: com Isabel Fernandes (morta em 1599), filha do capitão Salvador Pires e de sua segunda mulher Mécia Fernandes ou Mécia-uçu, mameluca; Catarina de Uñate (ou Unhate, morta em 1613) filha de Luís de Uñate e Maria Antunes e neta de Diogo de Uñate, escrivão da Ouvidoria e Fazenda da capitania de São Vicente, fundador de Paranaguá; e Maria de Piña ou Pinha, filha de Brás de Pinha ou Piña. Teve numerosos filhos. Un neto seu, chamado também Henrique da Cunha Gago, em 1660 seria o representante da família Pires a fazer o pacto de harmonia com José Ortiz de Camargo, representante da família Camargo, que estavam em guerra civil, ateada pelas ambições das duas famílias que por longos anos disputavam os cargos do governo.
+2 CONT Grande sertanista, fez entradas com Afonso Sardinha o Moço em busca de ouro e de índios para escravizar, como em 1598 no sertão do Jeticaí.
+2 CONT Em 1602 acompanhou a bandeira de Nicolau Barreto ao Guairá. Chefiou mais tarde uma entrada nessa direção, morrendo no chamado "sertão dos carijós".
+2 CONT Cunha Gago foi uma importante família de bandeirantes dos primórdios da exploração dos sertões do Brasil a partir do planalto paulista, desbravando terras que são hoje o centro-sul de Minas Gerais e leste do Paraná. O patriarca da família foi Henrique da Cunha Gago, o velho, filho Henrique da Cunha e Filipa Gago e casado com Catarina de Uñate (Unhate) nasceu Antônio da Cunha Gago, o "gambeta". Outros membros importantes da família foram: Bartolomeu da Cunha Gago e Simão da Cunha Gago
+2 CONT Cunha Gago também é a denominação de uma importante rua no bairro de Pinheiros, na capital paulista.
+1 FAMC @F500134@
+0 @F500133@ FAM
+1 _UID F161CA30AD98449090F7833913B33067
+1 CHIL @I500298@
+1 HUSB @I500300@
+1 WIFE @I500301@
+0 @I500301@ INDI
+1 NAME Catarina /de Unhate/
+2 GIVN Catarina
+2 SURN de Unhate
+1 SEX F
+1 BIRT
+2 DATE 1582
+2 PLAC São Paulo, Brasil
+1 _UID 8ADC8D2E299F47B0AAB3B716F4766CAA
+1 FAMS @F500133@
+1 DEAT Y
+2 DATE 02/02/1613
+2 PLAC São Paulo, Brasil
+1 NOTE Catharina de Unhatte (Antunes)
+2 CONT Nasceu por volta de 1580, provavelmente em São Paulo.
+2 CONT Catharina faleceu em 1613.
+2 CONT Filha de Luís de Unhatte e de Maria Antunes (Unhatte).
+2 CONT Casou-se após 1600, com Henrique da Cunha Gago, o Velho, filho do português Henrique da Cunha e da portuguesa Felipa Gago. Henrique era viúvo de Isabel Fernandes (Pires) (falecida em 1599), filha do Capitão Salvador Pires e de sua segunda esposa Mécia Fernandes (Mécia-Ussú).
+2 CONT Foi mãe de três filhos e duas filhas.
+2 CONT 1-4 Christovão da Cunha de Unhatte § 4.º
+2 CONT 1-5 Antonio da Cunha Gago (o Gambeta) § 5.º
+2 CONT 1-6 Francisco da Cunha § 6.º
+2 CONT 1-7 Maria da Cunha § 7.º
+2 CONT 1-8 Filippa da Cunha Gago § 8.º 
+1 FAMC @F500135@
+0 @I500302@ INDI
+1 NAME Henrique /da Cunha/
+2 GIVN Henrique
+2 SURN da Cunha
+1 SEX M
+1 BIRT
+2 PLAC Porto, Portugal
+1 _UID B213B68A1DEB4EC785330C344D572B07
+1 FAMS @F500134@
+1 DEAT Y
+2 PLAC São Vicente, São Paulo, Brasil
+0 @F500134@ FAM
+1 _UID C4BE8EDB753B4F139399690B700EE6EF
+1 CHIL @I500300@
+1 HUSB @I500302@
+1 WIFE @I500303@
+0 @I500303@ INDI
+1 NAME Filipa /Gago/
+2 GIVN Filipa
+2 SURN Gago
+1 SEX F
+1 BIRT
+2 PLAC Portugal
+2 DATE 1533
+1 _UID 9BA4D9355CC94F6B984AEA2C2BF45C67
+1 FAMS @F500134@
+1 DEAT Y
+2 PLAC São Vicente, São Paulo, Brasil
+1 NOTE Fillipa Gago nasceu por volta de 1533, em Portugal.
+2 CONT Felipa era parente próxima de Antonio de Oliveira, cavalheiro fidalgo da casa de el-rei Dom João III, primeiro Capitão-mor Governador, loco-tenente do donatário da capitania de São Vicente.
+2 CONT Casou-se em Portugal com Henrique da Cunha.
+2 CONT Felipa veio para o Brasil em 1531, com seu marido, na esquadra de Martim Affonso de Sousa.
+2 CONT Foi mãe de dois filhos e quatro filhas
+2 CONT Cap. 1.º Izabel da Cunha
+2 CONT Cap. 2.º Maria da Cunha
+2 CONT Cap. 3.º Martha da Cunha
+2 CONT Cap. 4.º Henrique da Cunha Gago (velho)
+2 CONT Cap. 5.º João da Cunha Gago. 
+2 CONT
+2 CONT Fonte: Genealogia Paulistana, Silva Leme, Volume V - Pág. 03 a 45, Título Cunhas Gagos.
+0 @I500304@ INDI
+1 NAME Luis /Unhate/
+2 GIVN Luis
+2 SURN Unhate
+1 SEX M
+1 BIRT
+2 DATE 1560
+2 PLAC Santos, São Paulo, Brasil
+1 _UID ACA66AB1BA00444E9AEF0377B2602920
+1 FAMS @F500135@
+1 DEAT Y
+2 DATE 1630
+2 PLAC Santos, São Paulo, Brasil
+1 NOTE Henrique da Cunha Gago (o velho) nascido perto de Santos em 1560, foi morador em S. Paulo de Piratininga onde faleceu em 1624, tendo sido casado 3 vezes: a 1.ª com Izabel Fernandes † em 1599, f.ª do capitão Salvador Pires e de sua 2.ª mulher Mecia Fernandes (Mecia-ussú), V. 2.º pág. 123; 2.ª vez foi casado com Catharina de Unhatte, f.ª de Luiz de Unhatte e de Maria Antunes, n. p. de Diogo de Unhatte, escrivão da ouvidoria e fazenda da capitania de S. Vicente e fundador de Paranaguá; 3.ª vez foi casado com Maria de Piña, viúva de João de Almeida, f.ª de Braz de Piña. 
+2 CONT
+2 CONT Fonte: Genealogia Paulistana, Silva Leme, Volume V - Pág. 03 a 45, Título Cunhas Gagos. 
+1 FAMC @F500136@
+0 @F500135@ FAM
+1 _UID 8B35F1999DD640F8BC08EA1153B589AD
+1 CHIL @I500301@
+1 HUSB @I500304@
+1 WIFE @I500305@
+0 @I500305@ INDI
+1 NAME Maria /Antunes/
+2 GIVN Maria
+2 SURN Antunes
+1 SEX F
+1 BIRT
+2 DATE 1560
+2 PLAC Portugal
+1 _UID 969386D32F41444F90727D81374BA5F5
+1 FAMS @F500135@
+1 DEAT Y
+2 DATE 1630
+2 PLAC Brasil
+0 @I500306@ INDI
+1 NAME Diego /de Unhate/
+2 GIVN Diego
+2 SURN de Unhate
+1 SEX M
+1 BIRT
+2 DATE 1535
+2 PLAC Portugal
+1 _UID 473246DF278D4F24AED1578D26726482
+1 FAMS @F500136@
+1 DEAT Y
+2 DATE 1614
+2 PLAC São Paulo, Brasil
+1 NOTE Diogo de Unhatte
+2 CONT Nasceu por volta de 1535, em Portugal.
+2 CONT Diogo veio para o Brasil, onde ocupou o cargo de escrivão da Ouvidoria e Fazenda da capitania de São Vicente.
+2 CONT Foi o fundador da vila de Paranaguá, no litoral do Paraná.
+2 CONT Casou-se com Maria Nunes (Botelho), filha de Antão Nunes (Botelho) e de Isabel Botelho (Nunes).
+2 CONT Foi pai de dois filhos:
+2 CONT 1.1. Luís de Unhatte, casado com Maria Antunes (Unhatte).
+2 CONT 1.2. M... Unhatte, casado com [...].
+2 CONT
+2 CONT -----------------------------------------------------------------------
+2 CONT
+2 CONT II- MARIA NUNES, n. por 1556, C. em Santos por 1572 c. DIOGO DE ONHATE, n. por 1550, vindo para a Capitania de S. Vicente cerca de 1570, conforme declarou num requerimento de sesmaria em 1608. Seria o mesmo Diego de Onãte, natural de Guipuzcoa, junto à província de Biscaia, mencionado por Lafuente Machain na sua obra “Los Conquistadores del Rio de La Plata” 6 Pertenceu à governança de Santos, durante alguns anos, e passou a residir na vila de S. Paulo. Em 1584, com Belchior da Costa, foi eleito pela Câmara cobrador da finta para as obras do Concelho. Exerceu os cargos de escrivão da Câmara de 1584 a 1587 e de tabelião desse ano em diante; em maio de 1590 teve o cargo de almotacel e, em julho do mesmo ano, nomeado escrivão da armada do Cap. Jerônimo Leitão aos contrários (ACCSP, I, 244, 246, 249, 253 a 317, 318 e 405). Voltou para Santos, alguns anos depois, onde serviu, de 1609 a 1617, os cargos de escrivão da Ouvidoria e da Fazenda Real (“Sesm.”, I, 35 a 224). Obteve em 1608, com João de Abreu, sesmaria em S. Sebastião e, no mesmo ano, outra sesmaria na região do rio Sorocaba. Em luta contra índios hostis e piratas de várias procedências, recebeu muitos ferimentos, do que resultou ficar manco e aleijado da mão e do braço direito (“Sesm.”, I, 22, 24 e 33). Em 1614, requereu uma sesmaria em Paranaguá, sem obter a confirmação (Idem, 216). Faleceu em data não conhecida, em Paranaguá ou S. Sebastião. Ignora-se o número exato de filhos; em 1608, cinco das seis filhas estavam casadas ou por dotar (v. a carta de sesmaria). Pais de, entre outros (acrescidos de alguns netos):
+2 CONT
+2 CONT http://www.asbrap.org.br/documentos/revistas/rev15_art9.pdf
+2 CONT
+2 CONT Diogo de Unhate
+2 CONT
+2 CONT Casou-se com Maria Nunes.
+2 CONT
+2 CONT Veio para o Brasil por volta de 1574, pois no requerimento da sesmaria de terras no Paraná, datada de 1614, declarou residir em Santos há cerca de 40 anos.
+2 CONT
+2 CONT Em 3 de novembro de 1607, ele já estava como escrivão da Ouvidoria e Fazenda da capitania de São Vicente, quando registrou a sesmaria dada a Afonso Sardinha. Até 1614, encontrâmo-lo neste cargo.
+2 CONT
+2 CONT Em 4 de setembro de 1608 recebia sesmaria em São Sebastião. Na carta de confirmação desta cessão de terras, datada de setembro deste mesmo ano e assinada por Gaspar Conqueiro, se declara que ele está aleijado do braço direito em razão das flechadas e feridas recebidas quando da defesa da vila de Santos, onde vivia, acossada por ingleses, franceses e índios.
+2 CONT
+2 CONT Esteve bandeirando no sul do País e é tido como o fundador de Paranaguá (PR), onde recebeu sesmaria de terras a 1ð de junho de 1614. Doação esta que não produziu efeito, pois ele nunca foi cuidar das terras.
+2 CONT
+2 CONT Gen. Sebstianense, p. 489 e 490
+2 CONT
+2 CONT DEASP, Sesmarias, I, 22, 35, 84, 86, 96, 121, 216 e 222
+2 CONT
+2 CONT www.marcopolo.pro.br/genealogia/cof/cofn67.htm
+1 FAMC @F500137@
+0 @F500136@ FAM
+1 _UID 67BF5D60B1E246F1BBF3D81D89543B4A
+1 CHIL @I500304@
+1 HUSB @I500306@
+1 WIFE @I500307@
+0 @I500307@ INDI
+1 NAME Maria /Nunes Botelho/
+2 GIVN Maria
+2 SURN Nunes Botelho
+1 SEX F
+1 BIRT
+2 DATE 1556
+1 _UID 82B36B591DF1493D9A81676E39A75112
+1 FAMS @F500136@
+1 DEAT Y
+2 DATE 1610
+2 PLAC São Paulo, Brasil
+0 @I500308@ INDI
+1 NAME Antao /Nunes/
+2 GIVN Antao
+2 SURN Nunes
+1 SEX M
+1 BIRT
+2 DATE 1510
+2 PLAC Angra do Heroísmo, Terceira, Açores, Portugal
+1 _UID 491390B37BD2496A91B9F3BE681B63CC
+1 FAMS @F500137@
+1 DEAT Y
+2 DATE 1580
+2 PLAC São Vicente, São Paulo, Brasil
+1 NOTE ANTÃO NUNES, n. por 1520, em Portugal ou em seus distritos das Ilhas, foi um dos primeiros moradores da Capitania de S. Vicente para onde veio, entre os anos de 1543 e 1553, provavelmente casado com ISABEL BOTELHO, n. por 1527, filha de André Botelho (n. por 1500) e de s/m. ... (não mencionada por falhas de escrituras) sesmeiros em Santos desde o ano de 1541. Referido em “Nobiliarchia Brasiliense” (árvore 19ª) de autoria do Cônego Roque Luís de Macedo (com informes obtidos, em parte, dos primeiros manuscritos de Pedro Taques) aparece Antão Nunes casado segunda vez com MARIA DE SIQUEIRA, suposta irmã ou parenta (não filha, em função das datas) de Antônio de Siqueira Mendonça (n. por 1536) estabelecido na Capitania por 1559, escrivão e tabelião em Santos, onde ainda vivia em 1613 (nota 1ª). Herdou bens do sogro, André Botelho, e era já falecido em 1582 (RIHGSP, XLIV, p. 219). Sobre a morte da primeira mulher (por 1559) nada consta.
+2 CONT Pais de, ao menos:
+2 CONT 1 (II) - PEDRO NUNES, n. por 1554, nomeado alcaide em 1583, membro da Câmara e eleito juiz ordinário em S. Paulo, em 1612. Segue.
+2 CONT 2 (II) - MARIA NUNES, n. por 1556, C.c. DIOGO DE ONHATE, tabelião e escrivão da Ouvidoria e Fazenda Real. Segue no § 2º.
+2 CONT 3 (II) - (?) ... NUNES, n. por 1544, poderia ter sido, cerca de 1560, uma primeira mulher do escrivão ANTÔNIO DE SIQUEIRA MENDONÇA.
+2 CONT Silva Leme menciona Pedro Nunes de Siqueira entre os filhos do
+2 CONT escrivão (v. nota 1ª).
+2 CONT
+2 CONT Na dúvida se filhos ou netos de Antão Nunes:
+2 CONT 4 (II) - ANTÔNIO NUNES DE SIQUEIRA, n. por 1561, C.c. MARIA MACIEL.
+2 CONT São os avós maternos do Reverendo Padre Dr. Mateus Nunes de Siqueira, protonotário apostólico e ouvidor da Vara Eclesiástica, em S. Paulo. Segue no § 3º.
+2 CONT 5 (II) - PEDRO NUNES DE SIQUEIRA, n. em Santos em 1565; entre seus netos o Padre Pedro Nunes de Siqueira, que foi coadjutor em Santos, em 1654 (S.L., 8º, 405).
+2 CONT 6 (II) - (?) CATARINA DE MENDONÇA, n. por 1563, C.c. ...; deixou descendentes ligados aos Góis, Gonçalves da Maia e outros títulos (em estudo).
+0 @F500137@ FAM
+1 _UID 4E198A76AC6C421EBE136475B82E69D1
+1 CHIL @I500306@
+1 HUSB @I500308@
+1 WIFE @I500309@
+0 @I500309@ INDI
+1 NAME Isabel /Botelho/
+2 GIVN Isabel
+2 SURN Botelho
+1 SEX F
+1 BIRT
+2 DATE 1527
+1 _UID 30228C717AB5477689319562816885DB
+1 FAMS @F500137@
+1 DEAT Y
+1 FAMC @F500138@
+0 @I500310@ INDI
+1 NAME André /Botelho/
+2 GIVN André
+2 SURN Botelho
+1 SEX M
+1 BIRT
+2 DATE 1500
+1 _UID 71026AECDEC74247B02E96BA35C13049
+1 FAMS @F500138@
+1 DEAT Y
+0 @F500138@ FAM
+1 _UID 75479A7DFCDB4EB0884E763800E7B6F5
+1 CHIL @I500309@
+1 HUSB @I500310@
+0 @I500311@ INDI
+1 NAME Gaspar /Vaz Guedes/
+2 GIVN Gaspar
+2 SURN Vaz Guedes
+1 SEX M
+1 BIRT
+2 DATE 1545
+2 PLAC Espírito Santo, Brasil
+1 _UID E39D35DF73BC4BA792F141D051D28326
+1 FAMS @F500139@
+1 DEAT Y
+2 DATE 1636
+2 PLAC Espírito Santo, Brasil
+1 NOTE Por volta de 1600, moradores de Santos, SP, filho de Antonio Vaz Guedes e Margarida Correa.
+2 CONT Liderados por Brás Cardoso e Gaspar Vaz, partiram de Piaçaguera e subiram a Serra do Mar seguindo uma antiga trilha indígena, ao longo do vale do Rio Quilombo.
+2 CONT
+2 CONT No planalto, em terras pertencentes a Brás Cubas, ergueram as primeiras casas de uma aldeia a que deram o nome de Sant'anna das Cruzes de Boigi Mirim, e que mais tarde viria a se tornar a vila de Mogi das Cruzes, ao lado da vila de São Paulo.
+2 CONT
+2 CONT Foi bandeirante e, em 1628, acompanhou Antonio Raposo Tavares em sua expedição ao Guairá.
+2 CONT
+2 CONT Gaspar Vaz Guedes, natural da mesma capitania supra, foi casado com Francisca Cardoso, falecida em 1611 em S. Paulo, f.ª de Braz Cardoso, natural de Portugal, e fundador de Mogi das Cruzes, e de sua mulher Francisca da Costa. Teve 10 f.ºs: (C. O. de S. Paulo):
+2 CONT
+2 CONT 1-1 Antonio Vaz Cardoso § 1.º
+2 CONT 1-2 Braz Cardoso § 2.º
+2 CONT 1-3 Gaspar Vaz Cardoso § 3.º
+2 CONT 1-4 Catharina Dias § 4.º
+2 CONT 1-5 Francisca Cardoso § 5.º
+2 CONT 1-6 Izabel Cardoso § 6.º
+2 CONT 1-7 Domingos Cardoso § 7.º
+2 CONT 1-8 Anna Vaz § 8.º
+2 CONT 1-9 Mecia Vaz Cardoso § 9.º
+2 CONT 1-10 Maria Vaz Cardoso § 10.º
+2 CONT
+2 CONT Fonte: Genealogia Paulistana, Silva Leme, Vol VIII - Pág. 535 a 554, Título Vaz Guedes.
+2 CONT
+2 CONT ---
+2 CONT
+2 CONT Foi o principal povoador de Mogi das Cruzes, tendo recebido sesmaria neste povoado em 22/09/1608. Foi o primeiro e principal peticionário do requerimento de elevação de Mogi das Cruzes a vila em 1611. Foi capitão da vila de Mogi até 1625, sendo substituído por seu genro José Preto. Foi bandeirante juntamente com Antonio Raposo Tavares, na sua entrada ao Guairá em 1628.
+2 CONT
+2 CONT Imagem: retrato supostício de Gaspar Vaz, de autoria de Manoel Victor Filho, 1980 (em Gaspar Vaz - Fundador de Mogi das Cruzes, de Isaac Grinberg, ed. do autor, 1980).
+2 CONT
+2 CONT VAZ GUEDES
+2 CONT
+2 CONT           Antonio Vaz Guedes nasceu em Mesanfrio (Portugal) e se casou com Margarida Correia.
+2 CONT           Pais de:
+2 CONT 1.1 Gaspar Vaz Guedes nasceu no Espírito Santo e se mudou para São Paulo, onde se casou com Francisca Cardoso, falecida em 1611.
+2 CONT           Em 1563 ele já morava em Santos, como escrivão da capitania de Santo Amaro. Depois foi juiz ordinário em São Paulo no ano de 1594. É tido como fundador de Mogi das Cruzes, em São Paulo.
+2 CONT           Ele participou em 1628 da bandeira de Antonio Raposo Tavares ao Guairá.
+2 CONT 1.2 Merência Vaz.
+2 CONT 1.3 Ana Correia.
+1 FAMC @F500140@
+0 @F500139@ FAM
+1 _UID 4314FDA1CE564C5E80224E31C2030361
+1 CHIL @I500299@
+1 HUSB @I500311@
+1 WIFE @I500312@
+0 @I500312@ INDI
+1 NAME Francisca /Cardoso/
+2 GIVN Francisca
+2 SURN Cardoso
+1 SEX F
+1 BIRT
+2 DATE 1570
+2 PLAC Espírito Santo, Brasil
+1 _UID 90976038615E4C93816BB6C948E2FE3B
+1 FAMS @F500139@
+1 NOTE Gaspar Vaz Guedes, natural da mesma capitania supra, foi casado com Francisca Cardoso, falecida em 1611 em S. Paulo, f.ª de Braz Cardoso, natural de Portugal, e fundador de Mogi das Cruzes, e de sua mulher Francisca da Costa. Teve 10 f.ºs: (C. O. de S. Paulo):
+2 CONT
+2 CONT 1-1 Antonio Vaz Cardoso § 1.º
+2 CONT 1-2 Braz Cardoso § 2.º
+2 CONT 1-3 Gaspar Vaz Cardoso § 3.º
+2 CONT 1-4 Catharina Dias § 4.º
+2 CONT 1-5 Francisca Cardoso § 5.º
+2 CONT 1-6 Izabel Cardoso § 6.º
+2 CONT 1-7 Domingos Cardoso § 7.º
+2 CONT 1-8 Anna Vaz § 8.º
+2 CONT 1-9 Mecia Vaz Cardoso § 9.º
+2 CONT 1-10 Maria Vaz Cardoso § 10.º
+2 CONT
+2 CONT Fonte: Genealogia Paulistana, Silva Leme, Vol VIII - Pág. 535 a 554, Título Vaz Guedes.
+2 CONT
+2 CONT ---
+2 CONT
+2 CONT PROJETO COMPARTILHAR Coordenação: Bartyra Sette e Regina Moraes Junqueira www.projetocompartilhar.org
+2 CONT
+2 CONT SL. 8º, 536, Cap. 2º, Gaspar Vaz Guedes, natural da mesma capitania supra, foi casado com
+2 CONT
+2 CONT Francisca Cardoso
+2 CONT , falecida em 1611 em São Paulo, f.a de Brás Cardoso, natural de Portugal, e fundador de Mogi das Cruzes, e de sua mulher Francisca da Costa. Teve 10 f.os (C. O. de São Paulo): S.L. 9º, 218, 1-11; vol. 8º, pag. 554, depois do § 10º acrescente-se § 11 Violante Cardoso, fa. do Cap. 2º
+2 CONT
+2 CONT FRANCISCA CARDOSO Inventário e Testamento
+2 CONT
+2 CONT Vol 3, fls 3 a 17 Juiz: Pedro Taques Escrivão: Simão Borges Avaliadores: João da Costa e Antonio Lopes Local: Vila de São Paulo, no arrabalde dela da banda de alem da casa do bemaventurado Santo Antonio, nas pousadas donde pousa Gaspar Vaz que é nas pousadas de Bartholomeu Gonçalves. Testamento: 1611 Inventário: 1611 Declarante: Gaspar Vaz, o viúvo
+2 CONT
+2 CONT fls. 6 - TESTAMENTO (resumo)
+2 CONT
+2 CONT (...) aos 11-3-1611 eu Francisca Cardoso ordenei fazer esta cédula de testamento. (encomendações pias) Declaro que sou casada com Gaspar Vaz meu legitimo marido do qual tenho tres filhos varões e oito filhas. Declaro que da fazenda que se achar a terça deixo a meu marido para que faça bem pela minha alma (...) lhe peço que dê a Nossa Senhora da Conceição de Itanhae sete arreis de cêra, e uma esmola a Nossa Senhora do Carmo e meu corpo enterrado em sua igreja.
+2 CONT
+2 CONT (....)_. E pedi ao padre João Alvres que o fizesse e assinasse por eu não saber fazer meu sinal e ás testemunhas que presentes se acharam João de Almeida, Gaspar de Pinha, João de Pinha, Antonio da Paz, Antonio de Proença. Assino por ela e por mim, o padre João Alvres - Francisco Vaz Coelho - Braz de Piña - Antonio de Proença - João de Almeida - Gaspar de Pinha - João de Pinha - Antonio da Paz. Cumpra-se assim e da maneira que nele se contem em São Paulo, 14 de março de 611 anos., Pedro Taques.
+2 CONT
+2 CONT Filhos que ficaram da defunta, solteiros: - Antonio Vaz - Braz Cardoso - Gaspar - Catharina - Francisca - Izabel - Domingas - Anna - Mecia - Maria
+2 CONT
+2 CONT http://www.projetocompartilhar.org/SAESPp/franciscacardoso1611.htm
+1 FAMC @F500141@
+0 @I500313@ INDI
+1 NAME Antonio /Vaz Guedes/
+2 GIVN Antonio
+2 SURN Vaz Guedes
+1 SEX M
+1 BIRT
+2 DATE 1520
+2 PLAC Mesão Frio, Vila Real, Portugal
+1 _UID BB86931366484B5D87813B22104F3693
+1 FAMS @F500140@
+1 DEAT Y
+2 DATE 1566
+2 PLAC Espírito Santo, Brasil
+1 NOTE Antonio Vaz Guedes e Margarida Correa, casal tronco do título “VAZ GUEDES” da Genealogia Paulistana tiveram:
+2 CONT
+2 CONT  
+2 CONT
+2 CONT - Merencia Vaz foi casada com Luiz Monteiro com geração em SL. 5, 285, Cap. 4. Muito provavelmente Merencia casou segunda vez com Melchior (Belchior) Martins de Mello, natural da Ilha de Santa Maria, Açores inventariado em 24-01-1631 (SAESP vol. 7º, neste site).
+2 CONT - Ana Correa casou com Antonio Pedroso, filho de Antonio Rodrigues e Ana Ribeira. Antonio e Ana fizeram testamento conjunto aprovado em 14-02-1643 (SAESP vol. 44º, neste site). Sem geração.
+2 CONT - Gaspar Vaz, como sempre se assinou, ou Gaspar Vaz Guedes como entendeu Silva Leme, titulo desta família, que segue
+2 CONT
+2 CONT Encontramos como irmã de Gaspar Vaz, sem certeza se inteira ou meia irmã:
+2 CONT
+2 CONT - Domingas Rodrigues, natural do Espírito Santo casada primeiro com Fulano da Paz e segunda vez com Bartolomeu Gonçalves. Este é o que erroneamente se encontra SL I, 23, 2-1 como filho de Braz Gonçalves e de filha do caçique do Ibirapuera. Faleceu Bartolomeu com testamento de 1612 (SAESP vol 7º) em que diz:“...minha mulher Domingas Rodrigues deixo por minha testamenteira que ela faça como eu fizera por ela, e em sua ajuda ao seu irmão Gaspar Vaz....”. O inventário de Bartolomeu é de 1627, onde Domingas tem por procurador seu genro Onofre Jorge.
+2 CONT
+2 CONT           Domingas testou aos 19-02-1630. O testamento recebeu o “cumpra-se” a 25 do mesmo mês, SAESPp vol 8º, neste site. Quando se casou segunda vez, Domingas já tinha três filhos, segundo declaração de Bartolomeu Gonçalves em testamento:
+2 CONT
+2 CONT “Declaro que quando casei com minha mulher Domingas Rodrigues tinha tres filhos de outro marido uma fêmea e dois machos um por nome Antonio da Paz o qual já é maior e lhe dei sua legitima que de seu pai lhe cabia e lhe não devo nada: o outro por nome Gaspar levou-o Deus, digo faleceu no sertão. Mais a femea por nome Luzia da Paz a qual casou com Inofre Jorge”
+2 CONT
+2 CONT Fonte: Projeto Compartilhar, Gaspar Vaz Guedes.
+2 CONT http://www.projetocompartilhar.org/Familia/GasparVazGuedes.htm
+0 @F500140@ FAM
+1 _UID ECC851C06C0A4EF2AB5F6FAA4485AE7B
+1 CHIL @I500311@
+1 HUSB @I500313@
+1 WIFE @I500314@
+0 @I500314@ INDI
+1 NAME Margarida /Correia/
+2 GIVN Margarida
+2 SURN Correia
+1 SEX F
+1 BIRT
+2 PLAC Mesão Frio, Vila Real, Portugal
+1 _UID 1C05041D372148FDA563F4A644499EBA
+1 FAMS @F500140@
+1 DEAT Y
+2 DATE 25/02/1610
+2 PLAC São Paulo, São Paulo, Brasil
+1 NOTE Teve começo esta família em Antonio Vaz Guedes, natural de Mezamfrio, que casado com Margarida Correa veio residir na capitania do Espírito Santo onde nasceram os seguintes f.ºs: que conseguimos descobrir:
+2 CONT
+2 CONT Cap. 1.º Merencia Vaz
+2 CONT Cap. 2.º Gaspar Vaz Guedes
+2 CONT Cap. 3.º Anna Correa
+2 CONT
+2 CONT Fonte: Genealogia Paulistana, Silva Leme, Vol VIII - Pág. 535 a 554, Título Vaz Guedes.
+2 CONT
+2 CONT ---
+2 CONT
+2 CONT Antonio Vaz Guedes e Margarida Correa, casal tronco do título “VAZ GUEDES” da Genealogia Paulistana tiveram:
+2 CONT
+2 CONT  - Merencia Vaz foi casada com Luiz Monteiro com geração em SL. 5, 285, Cap. 4. Muito provavelmente Merencia casou segunda vez com Melchior (Belchior) Martins de Mello, natural da Ilha de Santa Maria, Açores inventariado em 24-01-1631 (SAESP vol. 7º, neste site).
+2 CONT - Ana Correa casou com Antonio Pedroso, filho de Antonio Rodrigues e Ana Ribeira. Antonio e Ana fizeram testamento conjunto aprovado em 14-02-1643 (SAESP vol. 44º, neste site). Sem geração.
+2 CONT - Gaspar Vaz, como sempre se assinou, ou Gaspar Vaz Guedes como entendeu Silva Leme, titulo desta família, que segue
+2 CONT
+2 CONT Encontramos como irmã de Gaspar Vaz, sem certeza se inteira ou meia irmã:
+2 CONT
+2 CONT - Domingas Rodrigues, natural do Espírito Santo casada primeiro com Fulano da Paz e segunda vez com Bartolomeu Gonçalves. Este é o que erroneamente se encontra SL I, 23, 2-1 como filho de Braz Gonçalves e de filha do caçique do Ibirapuera. Faleceu Bartolomeu com testamento de 1612 (SAESP vol 7º) em que diz:“...minha mulher Domingas Rodrigues deixo por minha testamenteira que ela faça como eu fizera por ela, e em sua ajuda ao seu irmão Gaspar Vaz....”. O inventário de Bartolomeu é de 1627, onde Domingas tem por procurador seu genro Onofre Jorge.
+2 CONT
+2 CONT           Domingas testou aos 19-02-1630. O testamento recebeu o “cumpra-se” a 25 do mesmo mês, SAESPp vol 8º, neste site. Quando se casou segunda vez, Domingas já tinha três filhos, segundo declaração de Bartolomeu Gonçalves em testamento:
+2 CONT
+2 CONT “Declaro que quando casei com minha mulher Domingas Rodrigues tinha tres filhos de outro marido uma fêmea e dois machos um por nome Antonio da Paz o qual já é maior e lhe dei sua legitima que de seu pai lhe cabia e lhe não devo nada: o outro por nome Gaspar levou-o Deus, digo faleceu no sertão. Mais a femea por nome Luzia da Paz a qual casou com Inofre Jorge”
+2 CONT
+2 CONT Fonte: Projeto Compartilhar, Gaspar Vaz Guedes.
+2 CONT http://www.projetocompartilhar.org/Familia/GasparVazGuedes.htm
+2 CONT
+2 CONT VAZ GUEDES
+2 CONT
+2 CONT           Antonio Vaz Guedes nasceu em Mesanfrio (Portugal) e se casou com Margarida Correia.
+2 CONT           Pais de:
+2 CONT 1.1 Gaspar Vaz Guedes nasceu no Espírito Santo e se mudou para São Paulo, onde se casou com Francisca Cardoso, falecida em 1611.
+2 CONT           Em 1563 ele já morava em Santos, como escrivão da capitania de Santo Amaro. Depois foi juiz ordinário em São Paulo no ano de 1594. É tido como fundador de Mogi das Cruzes, em São Paulo.
+2 CONT           Ele participou em 1628 da bandeira de Antonio Raposo Tavares ao Guairá.
+2 CONT 1.2 Merência Vaz.
+2 CONT 1.2 Ana Correia.
+0 @I500315@ INDI
+1 NAME Bras /Cardoso/
+2 GIVN Bras
+2 SURN Cardoso
+1 SEX M
+1 BIRT
+2 DATE 1535
+2 PLAC Mesão Frio, Vila Real, Portugal
+1 _UID B2BA8375C8DD45A9B6D1D8DD59061E84
+1 FAMS @F500141@
+1 DEAT Y
+2 DATE 1610
+2 PLAC Mogi das Cruzes, São Paulo, Brazil
+1 NOTE Brás Cardoso (natural de Mesão Frio, Portugal) sogro do fundador de Mogi das Cruzes Gaspar Vaz. Brás Cardoso casou com Francisca da Costa natural de São Paulo no ano de 1580.
+2 CONT
+2 CONT Gaspar Vaz deu o início ao povoado, que foi elevado à categoria de vila em 17 de agosto de 1611, com o nome de "Vila de Sant'Ana de Moji-Mirim", antes chamada de Sant'Ana das Cruzes de (M'Boigi) ou Boigi Mirim
+2 CONT
+2 CONT Seu filho Gaspar Vaz Cardoso, obteve uma sesmaria e fundou o aldeamento da Escada, para onde foram levados índios já catequizados onde hoje e o município de Guararema.
+2 CONT
+2 CONT O Convento do Carmo com licença para a fundação em 3 de março de 1629 pelo capitão-geral Diogo Luís de Oliveira em nome de sua Majestade. As terras foram doadas por José Preto e sua esposa Catarina Dias, filha de Gaspar Vaz Guedes e neta de Brás Cardoso, pelo então vigário de Mogi, padre Gaspar.
+2 CONT
+2 CONT Silva Leme descreve sua família no volume VIII - página 537 capítulo 2.º (Título Vaz Guedes) da sua «Genealogia Paulistana».
+0 @F500141@ FAM
+1 _UID C628EFDB1BA74098826E16463E9152F7
+1 CHIL @I500312@
+1 HUSB @I500315@
+1 WIFE @I500316@
+0 @I500316@ INDI
+1 NAME Francisca Dorothéia /da Costa/
+2 GIVN Francisca Dorothéia
+2 SURN da Costa
+1 SEX F
+1 BIRT
+2 DATE 1543
+2 PLAC São Paulo, Sao Paulo, Brésil
+1 _UID 7AF08EF3A6B1450EA2964E50C22441E9
+1 FAMS @F500141@
+1 DEAT Y
+2 DATE 1610
+2 PLAC São Paulo, Sao Paulo, Brésil
+0 @I500317@ INDI
+1 NAME Simao /de Toledo Piza/
+2 GIVN Simao
+2 SURN de Toledo Piza
+1 SEX M
+1 BIRT
+2 DATE 1612
+2 PLAC Angra do Heroísmo, Terceira, Açores, Portugal
+1 _UID 6C37AA93355F437C9837824578FAE3E4
+1 FAMS @F500142@
+1 DEAT Y
+2 DATE 1668
+2 PLAC São Paulo, São Paulo, Brasil
+1 NOTE Esta nobre família teve princípio na capitania de S. Paulo em dom Simão de Toledo Piza, natural de Angra da ilha Terceira(1), que casou em 1640 em S. Paulo com Maria Pedroso f.ª de Sebastião Fernandes Correa, 1.º provedor (proprietário), e contador da fazenda real da capitania de S. Vicente e S. Paulo, e de Anna Ribeiro. Tit. Freitas Cap. 5º. Faleceu com testamento em 1668 em S. Paulo e teve, além de um f.º que faleceu na infância, de nome Sebastião, os seguintes:
+2 CONT
+2 CONT Cap. 1.º João de Toledo Castelhanos
+2 CONT Cap. 2.º Gracia da Fonseca Rodovalho
+2 CONT Cap. 3.º Anna Ribeiro Rodovalho
+2 CONT
+2 CONT
+2 CONT (1) A nobre ascendência de dom Simão de Toledo Piza, mencionado no texto, foi descrita por Pedro Taques, baseado em documentos registrados na vedoria da guerra da cidade de Angra da ilha Terceira, como damos em resumo:
+2 CONT
+2 CONT "Da ilustre casa dos condes de Oropeja e duques da Alba de Tormes foi legítimo descendente, sem quebra de bastardia dom João de Toledo Piza nascido na vila de Tormes, o qual casou em Madri com d. Anna de Castelhanos. Teve:
+2 CONT
+2 CONT Dom Simão de Toledo Piza que no posto de Capitão tomou parte na batalha naval de Lepanto em 1571 sob o comando de dom João da Áustria, contra os turcos, batalha que foi um terrível duelo entre o islamismo do turco que invadia a Europa e o cristianismo defendido pelas nações européias, e que teve como desfecho o triunfo completo do estandarte da cruz, perdendo os turcos 200 galeras, 25.000 homens e outros tantos escravos cristãos, que então foram postos em liberdade. No posto de sargento-mor combateu em 1583 na armada sob o comando do general dom Alvaro de Bazan, marques de Santa Cruz, contra Monsieur de Chatres, cavaleiro de Malta, que de França veio em socorro dos moradores da ilha Terceira partidários de dom Antonio Prior do Crato, o qual, tendo se aclamado rei de Portugal em 1580, tinha já sido derrotado pelo exército de el-rei Filippe II de Castela comandado por dom Fernando Alvares de Toledo, duque de Alba de Tormes: pelo que, tendo pedido esse socorro, veio Monsieur de Chatres aos mares da ilha Terceira onde experimentou uma derrota e ficaram os ilhéus dando obediência a Castela. Nesta batalha perdeu o sargento-mor dom Simão um olho e para tratar-se ficou em Angra, onde casou com Gracia da Fonseca Rodovalho, irmã do deão da sé dessa cidade — o Rabaço —, que instituiu o morgado no Pico Redondo, filhos de Vasco Fernandes Rodovalho. Teve de seu consórcio 4 f.ºs sendo duas fêmeas, que el rei de Castela fez recolher em um mosteiro em Madri com grande tença a cada uma delas, e dois varões que foram: dom Gabriel de Toledo Piza que, seguindo o real serviço, passou a Madri, e dom Simão que, seguindo o mesmo serviço, ficou na ilha Terceira; mais tarde chegando este ao posto de capitão passou à corte de Madri, donde saiu despachado e voltou a ilha Terceira. O que então lhe aconteceu ignoramos; entretanto, pelas declarações feitas em seu testamento em 1668, vemos que sofreu um revés de fortuna; disse ele: 'declaro que vindo de Madri despachado com os alvarás, que se acham na provedoria da fazenda, por secretos juízos do meu destino, fui preso no castelo, de onde fugi e vim dar a esta vila de S. Paulo, onde casei e sempre cuidei em me não dar a conhecer, consentindo que o morgado, que por morte de minha mãe passava a mim, o tenha desfrutado, e se ache de posse dele meu primo dom Pedro de Lombreiros, cônego da sé de Angra, cujas cartas estão no meu contador com os mais papéis meus, e de meu pai e irmãos. Meu f.º João de Toledo, habilitando-se por meu f.º, irá a minha pátria para tomar posse do morgado, que lhe pertence; cobrar da fazenda real o que consta das provisões que lá se acham em processo, e também a minha legítima materna, que ficou em casas de sobrado'.
+2 CONT
+2 CONT Foi dom Simão de Toledo Piza pessoa de respeito e autoridade em S. Paulo e teve sempre o 1.º voto no governo da república; adquiriu por seus méritos a propriedade do ofício de juiz de órfãos dessa vila, que exerceu com acerto e critério por 19 anos, até 1661, ano em que lhe sucedeu nesse ofício Antonio Raposo da Silveira, como temos tratado no V. 3.º pág. 5; foi ouvidor da capitania, cargo que tomou posse em 1666; em todas as ocasiões de rebate acudiu com sua pessoa e gente de serviço, a sua custa, a Vila de Santos, e quando da Bahia se pediram mantimentos, ele, além do que sua casa dava, instava com os mais moradores a que fizessem o mesmo. Alegando os seus serviços a S. Majestade assim nas armadas, como nos presídios, o que mostrava pelas certidões de fés de oficio, obteve uma sesmaria de uma légua de terra para suas lavouras.
+2 CONT
+2 CONT Fonte: Genealogia Paulistana, Silva Leme, Vol V - Pág. 445 a 485, Título Toledos Pizas.
+1 FAMC @F500143@
+0 @F500142@ FAM
+1 _UID B088A2EAD66047718453279A1EA372A7
+1 CHIL @I500297@
+1 HUSB @I500317@
+1 WIFE @I500318@
+0 @I500318@ INDI
+1 NAME Maria /Pedroso Rodovalho/
+2 GIVN Maria
+2 SURN Pedroso Rodovalho
+1 SEX F
+1 BIRT
+2 DATE 1620
+2 PLAC Taubaté, São Paulo, Brasil
+1 _UID 3B9A21D5C7774745A2CC38F4BA06266B
+1 FAMS @F500142@
+1 DEAT
+2 DATE 07/01/1681
+2 PLAC São Paulo, São Paulo, Brasil
+1 NOTE
+2 CONT
+2 CONT Esta nobre família teve princípio na capitania de S. Paulo em dom Simão de Toledo Piza, natural de Angra da ilha Terceira(1), que casou em 1640 em S. Paulo com Maria Pedroso f.ª de Sebastião Fernandes Correa, 1.º provedor (proprietário), e contador da fazenda real da capitania de S. Vicente e S. Paulo, e de Anna Ribeiro. Tit. Freitas Cap. 5º. Faleceu com testamento em 1668 em S. Paulo e teve, além de um f.º que faleceu na infância, de nome Sebastião, os seguintes:
+2 CONT
+2 CONT Cap. 1.º João de Toledo Castelhanos
+2 CONT Cap. 2.º Gracia da Fonseca Rodovalho
+2 CONT Cap. 3.º Anna Ribeiro Rodovalho
+2 CONT
+2 CONT Fonte: Genealogia Paulistana, Silva Leme, Vol V - Pág. 445 a 485, Título Toledos Pizas.
+0 @I500319@ INDI
+1 NAME Juan /Castellanos de Toledo Piza/
+2 GIVN Juan
+2 SURN Castellanos de Toledo Piza
+1 SEX M
+1 BIRT
+2 DATE 1547
+2 PLAC San Cristóbal de las Casas, Chiapas, México
+1 _UID 9B543C0371434F1F8F0DAAA52098C4F8
+1 FAMS @F500143@
+1 DEAT Y
+2 DATE 20 de novembro de 1625
+2 PLAC Angra do Heroísmo, Terceira, Açores, Portugal
+1 NOTE Quando Juan Castelhanos de Piza nasceu por volta de 1565, em San Cristóbal de las Casas, Chiapas, México, seu pai, Don Juan de Toledo Piza, tinha 56 anos e sua mãe, Anna de Castellanos, 26. Ele se casou com Grácia da Fonseca Rodovalho em 21 de janeiro de 1599, na Sé, Angra do Heroísmo, Terceira, Açores, Portugal. Eles eram pais de pelo menos 4 filhos e 2 filhas. Morreu a 20 de novembro de 1625, em Angra do Heroísmo, Terceira, Açores, Portugal, aos 61.
+2 CONT
+2 CONT Foi sargento-mor. Documentos do Arquivo de Simancas (Espanha) provam que D. Juan Castelhanos de Piza participou da invasão da Ilha Terceira. Ele estava na armada espanhola comandada pelo Marquês de Santa Cruz em 1583. Sua atuação mereceu o reconhecimento de seus superiores em uma relação dos soldados que demonstraram mais valor na batalha. Ao vencerem, os castelhanos acabaram com o último bastião da resistência à união das duas coroas ibéricas sob a cabeça de um único rei, Felipe II da Espanha. Foi casado duas vezes, com descendência de ambos os casamentos.
+1 FAMC @F500144@
+1 FAMC @F500145@
+0 @F500143@ FAM
+1 _UID A262F2613B3E4A719BAFC58A13DE3E7B
+1 CHIL @I500317@
+1 HUSB @I500319@
+1 WIFE @I500320@
+0 @I500320@ INDI
+1 NAME Grácia /da Fonseca Rodovalho/
+2 GIVN Grácia
+2 SURN da Fonseca Rodovalho
+1 SEX F
+1 BIRT
+2 DATE 1567
+2 PLAC Angra do Heroísmo, Terceira, Açores, Portugal
+1 _UID BA9969BB63E34FA2B8A8BE59927F1C7C
+1 FAMS @F500143@
+1 DEAT Y
+2 DATE 07/05/1616
+2 PLAC Angra do Heroísmo, Terceira, Açores, Portugal
+0 @I500321@ INDI
+1 NAME Juan /de Toledo Pisa/
+2 GIVN Juan
+2 SURN de Toledo Pisa
+1 SEX M
+1 BIRT
+2 DATE 1511
+2 PLAC Almagro, Ciudad Real, Castilla-La Mancha, Spain
+1 _UID E928EB41BD56484B96D12EFA43E438B8
+1 FAMS @F500144@
+1 DEAT Y
+2 DATE 1571
+2 PLAC Santo Domingo Tehuantepec, Oaxaca, Mexico
+1 NOTE Ver este site para a filiacao de Juan de Toledo Pisa:https://www.adbruno.com.br/post/aportes-%C3%A0-genealogia-paulistana-os-toledos-pizas 
+2 CONT
+1 FAMC @F500146@
+0 @F500144@ FAM
+1 _UID 5505EB6496EB4DE3A148E70A4A22295B
+1 CHIL @I500319@
+1 HUSB @I500321@
+0 @I500322@ INDI
+1 NAME Ana /López Castellanos/
+2 GIVN Ana
+2 SURN López Castellanos
+1 SEX M
+1 BIRT
+2 DATE 1512
+1 _UID 399436EB09B64E5EA36188D99CCDC0EC
+1 FAMS @F500145@
+1 DEAT Y
+2 DATE 1571
+2 PLAC México
+0 @F500145@ FAM
+1 _UID AF04FFBF3B60486181606BF44E4CCD06
+1 CHIL @I500319@
+1 HUSB @I500322@
+0 @I500323@ INDI
+1 NAME Gonzalo /Dias de Toledo/
+2 GIVN Gonzalo
+2 SURN Dias de Toledo
+1 SEX M
+1 BIRT
+2 DATE 1475
+2 PLAC Almagro, Ciudad Real, Castilla-La Mancha, Spain
+1 _UID F8A7B497CFD3496EAF7515B259336CFB
+1 FAMS @F500146@
+1 DEAT Y
+2 DATE 1561
+2 PLAC Almagro, Ciudad Real, Castilla-La Mancha, Spain
+0 @F500146@ FAM
+1 _UID 1F85209CD7A343CAA842F23ED850CF81
+1 CHIL @I500321@
+1 HUSB @I500323@
+1 WIFE @I500324@
+0 @I500324@ INDI
+1 NAME Elvira /Gutiérrez de Pisa/
+2 GIVN Elvira
+2 SURN Gutiérrez de Pisa
+1 SEX F
+1 BIRT
+2 DATE 1480
+2 PLAC Espanha
+1 _UID 312D921FBF584C10BFEFA7B0E49E8836
+1 FAMS @F500146@
+1 DEAT Y
+2 DATE 1561
+2 PLAC Almagro, Ciudad Real, Castilla-La Mancha, Spain
+0 @I500325@ INDI
+1 NAME Joao /Rodrigues Pessoa/
+2 GIVN Joao
+2 SURN Rodrigues Pessoa
+1 SEX M
+1 BIRT
+2 DATE 1819
+2 PLAC Paula Lima, MG, Brasil
+1 _UID 1F7A2772D2594CBC895B5C8C710EF61D
+1 FAMS @F500147@
+1 DEAT Y
+0 @F500147@ FAM
+1 _UID 723F7BB420AE4FDDAED0AA4A771BC82E
+1 CHIL @I500265@
+1 HUSB @I500325@
+1 WIFE @I500326@
+0 @I500326@ INDI
+1 NAME Antonia /Ferreira Pessoa/
+2 GIVN Antonia
+2 SURN Ferreira Pessoa
+1 SEX F
+1 BIRT
+2 DATE 1819
+2 PLAC Paula Lima, MG, Brasil
+1 _UID 14EDD26259B24807AB4055D51B2AB821
+1 FAMS @F500147@
+0 @I500327@ INDI
+1 NAME Elysa Rosa /Torres/
+2 GIVN Elysa Rosa
+2 SURN Torres
+1 SEX F
+1 _UID 818EFD9A0EEF4AA9B802881B906FE97F
+1 FAMS @F500148@
+1 DEAT Y
+0 @F500148@ FAM
+1 _UID A23C99EF23A54B7AB4450EBDB9A63688
+1 CHIL @I500263@
+1 WIFE @I500327@
+1 HUSB @I500328@
+0 @I500328@ INDI
+1 NAME Eduardo Luiz /Pereira Torres/
+2 GIVN Eduardo Luiz
+2 SURN Pereira Torres
+1 SEX M
+1 _UID 21D038818DC647E9A414E1A90315B539
+1 FAMS @F500148@
+1 DEAT Y
+0 @I500329@ INDI
+1 NAME Jose Antonio /Pontes/
+2 GIVN Jose Antonio
+2 SURN Pontes
+1 SEX M
+1 _UID 0918A7E17D5D48DD95BB5888059C0AFF
+1 FAMS @F500149@
+1 DEAT Y
+1 FAMC @F500150@
+0 @F500149@ FAM
+1 _UID 62A1C4888A274863807AAB8A092BC24E
+1 CHIL @I500101@
+1 HUSB @I500329@
+1 WIFE @I500330@
+0 @I500330@ INDI
+1 NAME Claudina /Meirelles/
+2 GIVN Claudina
+2 SURN Meirelles
+1 SEX F
+1 BIRT
+2 DATE 1873
+1 _UID DAC3957286824B0E8D60C942CCDC4C63
+1 FAMS @F500149@
+1 DEAT Y
+2 DATE 18 de janeiro de 1964
+2 PLAC Brasil
+0 @I500331@ INDI
+1 NAME Laurindo Antonio /Pontes/
+2 GIVN Laurindo Antonio
+2 SURN Pontes
+1 SEX M
+1 BIRT
+2 DATE 1850
+2 PLAC Rio de Janeiro, Brasil
+1 _UID 0648C1AC602D4D32BBDBDD1CB9E61748
+1 FAMS @F500150@
+1 DEAT Y
+2 PLAC Laje do Muriaé, Rio de Janeiro, Brasil
+0 @F500150@ FAM
+1 _UID 2557F3A52B664E5CB80E26CDB9EB85AB
+1 CHIL @I500329@
+1 HUSB @I500331@
+1 WIFE @I500332@
+0 @I500332@ INDI
+1 NAME Germana /Mattos Pontes/
+2 GIVN Germana
+2 SURN Mattos Pontes
+1 SEX F
+1 BIRT
+2 DATE 1850
+2 PLAC Rio de Janeiro, Brasil
+1 _UID 6663029E17AA4309B3784228E94E1597
+1 FAMS @F500150@
+1 DEAT Y
+0 @I500333@ INDI
+1 NAME Joaquim /Ferreira Amaro/
+2 GIVN Joaquim
+2 SURN Ferreira Amaro
+1 SEX M
+1 _UID 63BDEAC8F685492D8F4EC968CECC2F2F
+1 FAMS @F500151@
+1 DEAT Y
+0 @F500151@ FAM
+1 _UID B00B907ED3514413B5D82DCE35C6BDE8
+1 CHIL @I500102@
+1 HUSB @I500333@
+1 WIFE @I500334@
+0 @I500334@ INDI
+1 NAME Maria Jose /Amaro/
+2 GIVN Maria Jose
+2 SURN Amaro
+1 SEX F
+1 BIRT
+2 DATE 1889
+1 _UID 6F4DC0A66118436CB824A025526FA638
+1 FAMS @F500151@
+1 DEAT Y
+2 DATE 24 de fevereiro de 1968
+2 PLAC Rio de Janeiro, Rio de Janeiro, Brasil
+1 FAMC @F500152@
+0 @I500335@ INDI
+1 NAME Jose /Meirelles Lima/
+2 GIVN Jose
+2 SURN Meirelles Lima
+1 SEX M
+1 _UID 8FA3899D4577486B94E5BB8B77CC67E1
+1 FAMS @F500152@
+1 DEAT Y
+0 @F500152@ FAM
+1 _UID 63A72481117D42DABB56E06BCBC496B0
+1 CHIL @I500334@
+1 HUSB @I500335@
+1 WIFE @I500336@
+0 @I500336@ INDI
+1 NAME Eliza /Meirelles Lima/
+2 GIVN Eliza
+2 SURN Meirelles Lima
+1 SEX F
+1 _UID 7CB99494681349A6BED906A1985FFDF9
+1 FAMS @F500152@
+1 DEAT Y
+0 @I500337@ INDI
+1 NAME Josemar /Pontes Pessoa/
+2 GIVN Josemar
+2 SURN Pontes Pessoa
+1 SEX M
+1 BIRT
+2 DATE 16/01/1957
+2 PLAC Laje do Muriaé
+1 _UID A2F3564E688041B3A17E6FC8E302B871
+1 FAMC @F500041@
+1 FAMS @F500153@
+1 OBJE
+2 FILE ./media/Josemar.png
+3 FORM png
+3 TITL Josemar
+2 _PRIM Y
+2 _PERSONALPHOTO Y
+0 @I500338@ INDI
+1 NAME Mariza /Dutra Inácio Pessoa/
+2 GIVN Mariza
+2 SURN Dutra Inácio Pessoa
+1 SEX F
+1 BIRT
+2 DATE 23/11/1959
+2 PLAC Miracema
+1 _UID E244EF5D87FF4951902450904F48E520
+1 FAMS @F500153@
+1 OBJE
+2 FILE ./media/Mariza.png
+3 FORM png
+3 TITL Mariza
+2 _PRIM Y
+2 _PERSONALPHOTO Y
+0 @F500153@ FAM
+1 _UID D1669BD3111C4B4096207E43695C097F
+1 HUSB @I500337@
+1 WIFE @I500338@
+1 CHIL @I500339@
+1 CHIL @I500340@
+1 CHIL @I500341@
+0 @I500339@ INDI
+1 NAME Josemara /Dutra Inácio Pessoa/
+2 GIVN Josemara
+2 SURN Dutra Inácio Pessoa
+1 SEX F
+1 BIRT
+2 DATE 11/09/1984
+2 PLAC Laje do Muriaé, Rio de Janeiro
+1 _UID A0FD8769534A47ECABCC3AAF78B4F15E
+1 FAMC @F500153@
+1 FAMS @F500154@
+1 OBJE
+2 FILE ./media/Josemara.png
+3 FORM png
+3 TITL Josemara
+2 _PRIM Y
+2 _PERSONALPHOTO Y
+0 @I500340@ INDI
+1 NAME Izamara /Dutra Inácio Pessoa/
+2 GIVN Izamara
+2 SURN Dutra Inácio Pessoa
+1 SEX F
+1 BIRT
+2 DATE 11/02/1988
+2 PLAC Laje do Muriaé
+1 _UID 9F0F2DA19B7A44DBBF9A3A34D5A709B4
+1 FAMC @F500153@
+1 FAMS @F500155@
+1 OBJE
+2 FILE ./media/Izamara.png
+3 FORM png
+3 TITL Izamara
+2 _PRIM Y
+2 _PERSONALPHOTO Y
+0 @I500341@ INDI
+1 NAME Maraiza /Dutra Inácio Pessoa/
+2 GIVN Maraiza
+2 SURN Dutra Inácio Pessoa
+1 SEX F
+1 BIRT
+2 DATE 11/09/1984
+2 PLAC Laje do Muriaé
+1 _UID 486253E800DF48BD8CF34144CCAA1AEC
+1 FAMC @F500153@
+1 OBJE
+2 FILE ./media/Maraiza.png
+3 FORM png
+3 TITL Maraiza
+2 _PRIM Y
+2 _PERSONALPHOTO Y
+1 FAMS @F500156@
+0 @I500342@ INDI
+1 NAME Pablo /Acuña Hernandez/
+2 GIVN Pablo
+2 SURN Acuña Hernandez
+1 SEX M
+1 BIRT
+2 PLAC Chile
+2 DATE 02/09/1982
+1 _UID C4375902E16548B796AB3850A6F14E47
+1 FAMS @F500154@
+1 OBJE
+2 FILE ./media/Captura de ecrã 2026-06-17 223322.png
+3 FORM png
+3 TITL Captura de ecrã 2026 06 17 223322
+2 _PRIM Y
+2 _PERSONALPHOTO Y
+0 @F500154@ FAM
+1 _UID 29DD4C8EE9294F05B4E55F7176478BC2
+1 WIFE @I500339@
+1 HUSB @I500342@
+1 CHIL @I500349@
+0 @I500343@ INDI
+1 NAME Fabiano /Aleixo Silva/
+2 GIVN Fabiano
+2 SURN Aleixo Silva
+1 SEX M
+1 BIRT
+2 DATE 01/08/1980
+2 PLAC Laje do Muriaé
+1 _UID C467AD2E84DB413798BCD07B962BE7EF
+1 FAMS @F500155@
+1 OBJE
+2 FILE ./media/Bide.png
+3 FORM png
+3 TITL Bide
+2 _PRIM Y
+2 _PERSONALPHOTO Y
+0 @F500155@ FAM
+1 _UID 8E29F8B5A79540A2B5FABB618535F665
+1 WIFE @I500340@
+1 HUSB @I500343@
+1 CHIL @I500344@
+1 CHIL @I500345@
+1 CHIL @I500346@
+0 @I500344@ INDI
+1 NAME Lorenzo
+2 GIVN Lorenzo
+1 SEX M
+1 _UID A8A2707709D946FCBBCACE3A04291CB7
+1 FAMC @F500155@
+1 OBJE
+2 FILE ./media/Lorenzo.png
+3 FORM png
+3 TITL Lorenzo
+2 _PRIM Y
+2 _PERSONALPHOTO Y
+0 @I500345@ INDI
+1 NAME Miguel
+2 GIVN Miguel
+1 SEX U
+1 _UID 1A8B6A98434C46ADA9C1B493D258BDB7
+1 FAMC @F500155@
+1 OBJE
+2 FILE ./media/Miguel.png
+3 FORM png
+3 TITL Miguel
+2 _PRIM Y
+2 _PERSONALPHOTO Y
+0 @I500346@ INDI
+1 NAME Rafael
+2 GIVN Rafael
+1 SEX M
+1 _UID 24EE3B6373AB4EC6ACF4DF9E085A1011
+1 FAMC @F500155@
+1 OBJE
+2 FILE ./media/Rafael.png
+3 FORM png
+3 TITL Rafael
+2 _PRIM Y
+2 _PERSONALPHOTO Y
+0 @I500347@ INDI
+1 NAME Nicolly /Pessoa/
+2 GIVN Nicolly
+2 SURN Pessoa
+1 SEX F
+1 _UID 1AE5412DDF2346C1AF8CC1FC277646D5
+1 FAMC @F500156@
+1 OBJE
+2 FILE ./media/Nicolu.png
+3 FORM png
+3 TITL Nicolu
+2 _PRIM Y
+2 _PERSONALPHOTO Y
+0 @F500156@ FAM
+1 _UID 69343A243FC5421ABCF8B24CBD8684D7
+1 WIFE @I500341@
+1 CHIL @I500347@
+1 CHIL @I500350@
+0 @I500349@ INDI
+1 NAME Trinidade
+2 GIVN Trinidade
+1 SEX F
+1 _UID 737761FDF64C4EDC8B0FF317053CD9D8
+1 FAMC @F500154@
+1 OBJE
+2 FILE ./media/Trinidad.png
+3 FORM png
+3 TITL Trinidad
+2 _PRIM Y
+2 _PERSONALPHOTO Y
+0 @I500350@ INDI
+1 NAME Nicholas /Pessoa/
+2 GIVN Nicholas
+2 SURN Pessoa
+1 SEX U
+1 _UID F52678BD943847268BD251B74583E443
+1 FAMC @F500156@
+1 OBJE
+2 FILE ./media/Nicolas.png
+3 FORM png
+3 TITL Nicolas
+2 _PRIM Y
+2 _PERSONALPHOTO Y
+0 @I500351@ INDI
+1 NAME Carlos /Eugênio Pontes/
+2 GIVN Carlos
+2 SURN Eugênio Pontes
+1 SEX M
+1 BIRT
+2 DATE 31 de agosto de 1944
+2 PLAC Laje do Muriaé, Rio de Janeiro, Brasil
+1 _UID 3964D013503A49B3B5A5040DB8560C98
+1 FAMC @F500043@
+1 DEAT Y
+2 DATE 09/06/1996
+2 PLAC Piraí, Rio de Janeiro, Brasil
+1 FAMS @F500182@
+0 @I500352@ INDI
+1 NAME Terezinha /Pontes Barbosa/
+2 GIVN Terezinha
+2 SURN Pontes Barbosa
+1 SEX F
+1 _UID 69C609107FFF4F4E9A826CC17CA4B1F3
+1 FAMC @F500043@
+1 FAMS @F500157@
+1 DEAT Y
+2 DATE 2014
+0 @I500353@ INDI
+1 NAME Cid /Torrers Barbosa/
+2 GIVN Cid
+2 SURN Torrers Barbosa
+1 SEX M
+1 BIRT
+2 DATE 4 de março de 1939
+2 PLAC Laje do Muriaé, Rio de Janeiro, Brasil
+1 _UID 1E6E18F703C246188ED07347EB2906DF
+1 FAMS @F500157@
+1 DEAT Y
+2 DATE 17 de janeiro de 2010
+2 PLAC Laje do Muriaé, Rio de Janeiro, Brasil
+0 @F500157@ FAM
+1 _UID 39C3DF11B79E4F5EB806F3B00CC45378
+1 WIFE @I500352@
+1 HUSB @I500353@
+1 CHIL @I500354@
+1 CHIL @I500355@
+1 CHIL @I500356@
+0 @I500354@ INDI
+1 NAME Eugênio /Pontes Barbosa/
+2 GIVN Eugênio
+2 SURN Pontes Barbosa
+1 SEX M
+1 BIRT
+2 DATE 24 de junho de 1968
+2 PLAC Itaperuna, Rio de Janeiro, Brasil
+1 _UID EA18C5C22DC34EA4A91B3EDF22B07C07
+1 FAMC @F500157@
+0 @I500355@ INDI
+1 NAME Elan /Pontes Barbosa/
+2 GIVN Elan
+2 SURN Pontes Barbosa
+1 SEX M
+1 BIRT
+2 DATE 04/03/1975
+2 PLAC Itaperuna, Rio de Janeiro, Brasil
+1 _UID F48A6F2C7B63418180DCBC6552EDD490
+1 FAMC @F500157@
+1 OBJE
+2 FILE ./media/Elan.png
+3 FORM png
+3 TITL Elan
+2 _PRIM Y
+2 _PERSONALPHOTO Y
+1 FAMS @F500158@
+0 @I500356@ INDI
+1 NAME Cid /Barbosa de Castro Neto/
+2 GIVN Cid
+2 SURN Barbosa de Castro Neto
+1 SEX M
+1 BIRT
+2 PLAC Itaperuna, Rio de Janeiro, Brasil
+1 _UID 4387F725EAA643F393773DB3CD545C09
+1 FAMC @F500157@
+1 FAMS @F500159@
+1 OBJE
+2 FILE ./media/Captura de ecrã 2026-06-17 224842.png
+3 FORM png
+3 TITL Captura de ecrã 2026 06 17 224842
+1 OBJE
+2 FILE ./media/Captura de ecrã 2026-06-17 225012.png
+3 FORM png
+3 TITL Captura de ecrã 2026 06 17 225012
+1 OBJE
+2 FILE ./media/Captura de ecrã 2026-06-17 224842_2.png
+3 FORM png
+3 TITL Captura de ecrã 2026 06 17 224842 2
+2 _PRIM Y
+2 _PERSONALPHOTO Y
+0 @I500357@ INDI
+1 NAME Camilly /Nunes Barbosa/
+2 GIVN Camilly
+2 SURN Nunes Barbosa
+1 SEX F
+1 _UID FC80311928A14A67BF7C0EB84B787235
+1 FAMC @F500158@
+1 OBJE
+2 FILE ./media/Captura de ecrã 2026-06-17 224308.png
+3 FORM png
+3 TITL Captura de ecrã 2026 06 17 224308
+0 @F500158@ FAM
+1 _UID 37FD319D2C7A4CE7A97FFE491978D032
+1 HUSB @I500355@
+1 CHIL @I500357@
+1 WIFE @I500358@
+0 @I500358@ INDI
+1 NAME Idaiane /Nunes/
+2 GIVN Idaiane
+2 SURN Nunes
+1 SEX F
+1 _UID B7364D99597D48C2BD907976961B002C
+1 FAMS @F500158@
+1 OBJE
+2 FILE ./media/Captura de ecrã 2026-06-17 224348.png
+3 FORM png
+3 TITL Captura de ecrã 2026 06 17 224348
+2 _PRIM Y
+2 _PERSONALPHOTO Y
+0 @I500359@ INDI
+1 NAME Sandra Aparecida /de Oliveira/
+2 GIVN Sandra Aparecida
+2 SURN de Oliveira
+1 SEX F
+1 _UID 5397E570F9CC40F2A65E88577F089CE4
+1 FAMS @F500159@
+1 OBJE
+2 FILE ./media/Captura de ecrã 2026-06-17 224737.png
+3 FORM png
+3 TITL Captura de ecrã 2026 06 17 224737
+2 _PRIM Y
+2 _PERSONALPHOTO Y
+0 @F500159@ FAM
+1 _UID 0247F98BBD3043D8A55D5980FCE05800
+1 HUSB @I500356@
+1 WIFE @I500359@
+1 CHIL @I500360@
+1 CHIL @I500361@
+0 @I500360@ INDI
+1 NAME Filha
+2 GIVN Filha
+1 SEX F
+1 _UID 1785ED61E34C4DD9BF0A0BBA11BFFDD8
+1 FAMC @F500159@
+1 OBJE
+2 FILE ./media/Captura de ecrã 2026-06-17 224928.png
+3 FORM png
+3 TITL Captura de ecrã 2026 06 17 224928
+2 _PRIM Y
+2 _PERSONALPHOTO Y
+0 @I500361@ INDI
+1 NAME Filha
+2 GIVN Filha
+1 SEX F
+1 _UID 9B685C0BB31A4CB6BC042FD5E434F906
+1 FAMC @F500159@
+1 OBJE
+2 FILE ./media/Captura de ecrã 2026-06-17 225012_2.png
+3 FORM png
+3 TITL Captura de ecrã 2026 06 17 225012 2
+2 _PRIM Y
+2 _PERSONALPHOTO Y
+0 @I500362@ INDI
+1 NAME Jose Maria /Pontes/
+2 GIVN Jose Maria
+2 SURN Pontes
+1 SEX M
+1 _UID C7E453216E29409082F6329D4DECA928
+1 FAMC @F500043@
+1 FAMS @F500178@
+0 @I500363@ INDI
+1 NAME Maria Amélia /Pontes/
+2 GIVN Maria Amélia
+2 SURN Pontes
+1 SEX F
+1 _UID 0F848980BF4A4A84A86EBA8B77C38D5F
+1 FAMC @F500043@
+1 FAMS @F500179@
+0 @I500364@ INDI
+1 NAME Jacy /Meirelles Pessoa/
+2 GIVN Jacy
+2 SURN Meirelles Pessoa
+1 SEX M
+1 BIRT
+2 DATE 24 de agosto de 1930
+2 PLAC Laje do Muriaé, Rio de Janeiro, Brasil
+1 _UID D1FFC4CC1EE7468382595EB1499BEF74
+1 FAMC @F500042@
+1 DEAT Y
+2 DATE 26/12/2012
+2 PLAC Laje do Muriaé, Rio de Janeiro, Brasil
+1 FAMS @F500160@
+0 @I500365@ INDI
+1 NAME Alzira Lauricena /de Almeida Pessoa/
+2 GIVN Alzira Lauricena
+2 SURN de Almeida Pessoa
+1 SEX F
+1 _UID 57B20482DCB94CFAA7560FEAA99E569F
+1 FAMS @F500160@
+1 DEAT Y
+0 @F500160@ FAM
+1 _UID E8D13278106046E5A94C46D2B1E60D0C
+1 HUSB @I500364@
+1 WIFE @I500365@
+0 @I500366@ INDI
+1 NAME Joacy Policarpo /Pessoa/
+2 GIVN Joacy Policarpo
+2 SURN Pessoa
+1 SEX M
+1 BIRT
+2 DATE 1932
+2 PLAC Laje do Muriaé, Rio de Janeiro, Brasil
+1 _UID 13AC08C8FFAC47D3AE95D37E2F320DF7
+1 FAMC @F500042@
+1 DEAT Y
+2 DATE 15 Mai 2000
+2 PLAC Laje do Muriaé, Rio de Janeiro, Brasil
+0 @I500367@ INDI
+1 NAME Walter /Sousa Pessoa/
+2 GIVN Walter
+2 SURN Sousa Pessoa
+1 SEX M
+1 BIRT
+2 DATE 04/05/1936
+2 PLAC Laje do Muriaé, Laje do Muriaé, Rio de Janeiro, Brasil
+1 _UID 6ED13B3A0B5B470FB8053C8DD84A35E0
+1 FAMC @F500042@
+1 OBJE
+2 FILE ./media/Captura de ecrã 2026-06-17 230037.png
+3 FORM png
+3 TITL Captura de ecrã 2026 06 17 230037
+2 _PRIM Y
+2 _PERSONALPHOTO Y
+1 DEAT Y
+2 DATE 17/08/1994
+2 PLAC Itaperuna, Rio de Janeiro, Brasil
+0 @I500368@ INDI
+1 NAME Juray /Torres Pessoa/
+2 GIVN Juray
+2 SURN Torres Pessoa
+1 SEX F
+1 BIRT
+2 PLAC Laje do Muriaé, Laje do Muriaé, Rio de Janeiro, Brasil
+1 _UID 075518EF7A7B4D51A8E423133F1AFD40
+1 FAMC @F500042@
+1 OBJE
+2 FILE ./media/Captura de ecrã 2026-06-17 230246.png
+3 FORM png
+3 TITL Captura de ecrã 2026 06 17 230246
+2 _PRIM Y
+2 _PERSONALPHOTO Y
+0 @I500369@ INDI
+1 NAME Janilza /Gomes Campbell/
+2 GIVN Janilza
+2 SURN Gomes Campbell
+1 SEX F
+1 _UID 66B1038D25AF4FC6ACD88E5A821B70BB
+1 FAMC @F500114@
+1 OBJE
+2 FILE ./media/Captura de ecrã 2026-06-17 230444.png
+3 FORM png
+3 TITL Captura de ecrã 2026 06 17 230444
+2 _PRIM Y
+2 _PERSONALPHOTO Y
+1 FAMS @F500164@
+0 @I500370@ INDI
+1 NAME Jane /Correa/
+2 GIVN Jane
+2 SURN Correa
+1 SEX F
+1 BIRT
+2 DATE 10/06
+2 PLAC Muriaé
+1 _UID 07947D77D9614F168D8C25A03C0F3491
+1 FAMC @F500114@
+1 OBJE
+2 FILE ./media/Captura de ecrã 2026-06-17 230703.png
+3 FORM png
+3 TITL Captura de ecrã 2026 06 17 230703
+1 OBJE
+2 FILE ./media/Captura de ecrã 2026-06-17 234021.png
+3 FORM png
+3 TITL Captura de ecrã 2026 06 17 234021
+2 _PRIM Y
+2 _PERSONALPHOTO Y
+1 FAMS @F500165@
+0 @I500371@ INDI
+1 NAME Giovani /Lima Gomes/
+2 GIVN Giovani
+2 SURN Lima Gomes
+1 SEX M
+1 BIRT
+2 DATE 23/11/1969
+2 PLAC Muriaé
+1 _UID FAC250135A284961A367081EF5414F9B
+1 FAMC @F500114@
+1 OBJE
+2 FILE ./media/Captura de ecrã 2026-06-17 230822.png
+3 FORM png
+3 TITL Captura de ecrã 2026 06 17 230822
+2 _PRIM Y
+2 _PERSONALPHOTO Y
+0 @I500372@ INDI
+1 NAME Jacqueline /Couto/
+2 GIVN Jacqueline
+2 SURN Couto
+1 SEX F
+1 BIRT
+2 DATE 17/10/1966
+2 PLAC Muriaé
+1 _UID C8C34A1D0E124D03A25B89DA826BC4D9
+1 FAMC @F500114@
+1 OBJE
+2 FILE ./media/Captura de ecrã 2026-06-17 231218.png
+3 FORM png
+3 TITL Captura de ecrã 2026 06 17 231218
+2 _PRIM Y
+2 _PERSONALPHOTO Y
+1 FAMS @F500162@
+0 @I500373@ INDI
+1 NAME Jose Americo /Gomes/
+2 GIVN Jose Americo
+2 SURN Gomes
+1 SEX U
+1 BIRT
+2 PLAC Muriaé
+1 _UID E91321902CA04F4588F217CE2B47F088
+1 FAMC @F500114@
+1 OBJE
+2 FILE ./media/Captura de ecrã 2026-06-17 231456.png
+3 FORM png
+3 TITL Captura de ecrã 2026 06 17 231456
+2 _PRIM Y
+2 _PERSONALPHOTO Y
+1 FAMS @F500161@
+0 @I500374@ INDI
+1 NAME Vitória
+2 GIVN Vitória
+1 SEX F
+1 _UID EE40092E4D5447529F038E5F5317E80A
+1 FAMC @F500161@
+1 OBJE
+2 FILE ./media/Captura de ecrã 2026-06-17 231610.png
+3 FORM png
+3 TITL Captura de ecrã 2026 06 17 231610
+2 _PRIM Y
+2 _PERSONALPHOTO Y
+0 @F500161@ FAM
+1 _UID D90D02F2F3454A2DBDEC717C6EE6DB48
+1 HUSB @I500373@
+1 CHIL @I500374@
+1 WIFE @I500404@
+0 @I500375@ INDI
+1 NAME Jusmar /Gomes/
+2 GIVN Jusmar
+2 SURN Gomes
+1 SEX M
+1 BIRT
+2 PLAC Muriaé
+1 _UID 08F267CB564F40149633DC5A846D3976
+1 FAMC @F500114@
+1 OBJE
+2 FILE ./media/Captura de ecrã 2026-06-17 231809.png
+3 FORM png
+3 TITL Captura de ecrã 2026 06 17 231809
+2 _PRIM Y
+2 _PERSONALPHOTO Y
+1 FAMS @F500172@
+0 @I500376@ INDI
+1 NAME Marina
+2 GIVN Marina
+1 SEX F
+1 _UID 99762EF5385942E497877DBAF7C6687F
+1 FAMC @F500162@
+1 OBJE
+2 FILE ./media/Captura de ecrã 2026-06-17 232108.png
+3 FORM png
+3 TITL Captura de ecrã 2026 06 17 232108
+2 _PRIM Y
+2 _PERSONALPHOTO Y
+0 @F500162@ FAM
+1 _UID 3060D921FBF04BABA2316FDCB62883EE
+1 WIFE @I500372@
+1 CHIL @I500376@
+1 CHIL @I500377@
+1 HUSB @I500378@
+0 @I500377@ INDI
+1 NAME Carol /Couto/
+2 GIVN Carol
+2 SURN Couto
+1 SEX F
+1 _UID 9ECF7E56336649AEA247AE0E28FF0C71
+1 FAMC @F500162@
+1 OBJE
+2 FILE ./media/Captura de ecrã 2026-06-17 232338.png
+3 FORM png
+3 TITL Captura de ecrã 2026 06 17 232338
+2 _PRIM Y
+2 _PERSONALPHOTO Y
+1 FAMS @F500163@
+0 @I500378@ INDI
+1 NAME Wagner
+2 GIVN Wagner
+1 SEX M
+1 _UID 947AFC6EE0354A259C0145DD2820EFBF
+1 FAMS @F500162@
+1 OBJE
+2 FILE ./media/Captura de ecrã 2026-06-17 232459.png
+3 FORM png
+3 TITL Captura de ecrã 2026 06 17 232459
+2 _PRIM Y
+2 _PERSONALPHOTO Y
+1 DEAT Y
+2 DATE 2026
+0 @I500379@ INDI
+1 NAME Rafael /Barros/
+2 GIVN Rafael
+2 SURN Barros
+1 SEX M
+1 _UID BCAA68411CB2401A9898F26653E357E8
+1 FAMS @F500163@
+1 OBJE
+2 FILE ./media/Captura de ecrã 2026-06-17 232806.png
+3 FORM png
+3 TITL Captura de ecrã 2026 06 17 232806
+2 _PRIM Y
+2 _PERSONALPHOTO Y
+0 @F500163@ FAM
+1 _UID 71C13224F9454030AEF7B488E247A4D5
+1 WIFE @I500377@
+1 HUSB @I500379@
+1 CHIL @I500380@
+1 CHIL @I500381@
+0 @I500380@ INDI
+1 NAME Filho
+2 GIVN Filho
+1 SEX M
+1 _UID A978DBB3E681426986734669ED2F0CAD
+1 FAMC @F500163@
+1 OBJE
+2 FILE ./media/Captura de ecrã 2026-06-17 232910.png
+3 FORM png
+3 TITL Captura de ecrã 2026 06 17 232910
+2 _PRIM Y
+2 _PERSONALPHOTO Y
+0 @I500381@ INDI
+1 NAME Filha
+2 GIVN Filha
+1 SEX F
+1 _UID B718F47271744289817D4708A057FB32
+1 FAMC @F500163@
+1 OBJE
+2 FILE ./media/Captura de ecrã 2026-06-17 232949.png
+3 FORM png
+3 TITL Captura de ecrã 2026 06 17 232949
+2 _PRIM Y
+2 _PERSONALPHOTO Y
+0 @I500382@ INDI
+1 NAME Bernardo /Gomes/
+2 GIVN Bernardo
+2 SURN Gomes
+1 SEX M
+1 _UID 4E0AD4C8CF4D46798A5AC8E6DCFC95F1
+1 FAMC @F500164@
+1 OBJE
+2 FILE ./media/Captura de ecrã 2026-06-17 233428.png
+3 FORM png
+3 TITL Captura de ecrã 2026 06 17 233428
+2 _PRIM Y
+2 _PERSONALPHOTO Y
+0 @F500164@ FAM
+1 _UID 9308F04655864E07B1B7C9356B822FF3
+1 WIFE @I500369@
+1 CHIL @I500382@
+1 CHIL @I500383@
+1 HUSB @I500384@
+0 @I500383@ INDI
+1 NAME Breno /Gomes/
+2 GIVN Breno
+2 SURN Gomes
+1 SEX M
+1 _UID B7F08AF13B1F45E1880DC9ECCD4E3D20
+1 FAMC @F500164@
+1 OBJE
+2 FILE ./media/Captura de ecrã 2026-06-17 233231.png
+3 FORM png
+3 TITL Captura de ecrã 2026 06 17 233231
+2 _PRIM Y
+2 _PERSONALPHOTO Y
+0 @I500384@ INDI
+1 NAME Gilberto /Campbell/
+2 GIVN Gilberto
+2 SURN Campbell
+1 SEX M
+1 _UID FA4C0A45D02C4A64928DBDB1EEC5A6A2
+1 FAMS @F500164@
+1 OBJE
+2 FILE ./media/Captura de ecrã 2026-06-17 233524.png
+3 FORM png
+3 TITL Captura de ecrã 2026 06 17 233524
+0 @I500385@ INDI
+1 NAME Pedro /Vieira/
+2 GIVN Pedro
+2 SURN Vieira
+1 SEX M
+1 _UID F40595ACC1154281AAE97AC8FC215E00
+1 FAMS @F500165@
+1 DEAT Y
+0 @F500165@ FAM
+1 _UID 38DBFDB3912B42F995A6F10FE3E1E5D0
+1 WIFE @I500370@
+1 HUSB @I500385@
+1 CHIL @I500386@
+1 CHIL @I500387@
+1 CHIL @I500388@
+0 @I500386@ INDI
+1 NAME Pedro /Vieira/
+2 GIVN Pedro
+2 SURN Vieira
+1 SEX M
+1 _UID 1754404FC5FE4A4AB0D6AFFD82BB10F6
+1 FAMC @F500165@
+1 FAMS @F500171@
+0 @I500387@ INDI
+1 NAME Thalita /Gomes Vieira/
+2 GIVN Thalita
+2 SURN Gomes Vieira
+1 SEX F
+1 _UID 4161708DAFE4481E8093BC24C5A3E5BE
+1 FAMC @F500165@
+1 FAMS @F500166@
+0 @I500388@ INDI
+1 NAME Thiago /Vieira/
+2 GIVN Thiago
+2 SURN Vieira
+1 SEX M
+1 _UID A7B906EE186C431F8BE40AE9FF4681F6
+1 FAMC @F500165@
+0 @I500389@ INDI
+1 NAME Gerson /Vieira Varella/
+2 GIVN Gerson
+2 SURN Vieira Varella
+1 SEX M
+1 _UID 2FA4A1C290A14111B4AB5DFBBB56A0E3
+1 FAMC @F500166@
+0 @F500166@ FAM
+1 _UID 73822C5D0A5B4F5E991F77190F70B27D
+1 WIFE @I500387@
+1 CHIL @I500389@
+1 HUSB @I500390@
+0 @I500390@ INDI
+1 NAME Gerson /Ferreira Varella Neto/
+2 GIVN Gerson
+2 SURN Ferreira Varella Neto
+1 SEX M
+1 BIRT
+2 DATE 08/01/1987
+2 PLAC Muriaé
+1 _UID AF30AEA0F4254A1484277FB6FFDCBFB1
+1 FAMS @F500166@
+1 FAMC @F500167@
+0 @I500391@ INDI
+1 NAME Gerson /Ferreira Varella Filho/
+2 GIVN Gerson
+2 SURN Ferreira Varella Filho
+1 SEX M
+1 BIRT
+2 DATE 03/11/1961
+2 PLAC Muriaé, Minas Gerais, Brazil
+1 _UID FBA31A6E4FBD4EA29E00C6C871C29F4C
+1 FAMS @F500167@
+1 DEAT Y
+2 DATE 5 de março de 2016
+2 PLAC Muriaé, Minas Gerais, Brazil
+1 FAMC @F500168@
+0 @F500167@ FAM
+1 _UID A9444A8DBF5F45F0A45018075DC8D9E8
+1 CHIL @I500390@
+1 HUSB @I500391@
+1 WIFE @I500393@
+1 CHIL @I500394@
+0 @I500392@ INDI
+1 NAME Gerson /Ferreira Varella/
+2 GIVN Gerson
+2 SURN Ferreira Varella
+1 SEX M
+1 _UID CFA958C1BF3343489B9E4F0C947D4990
+1 FAMS @F500168@
+0 @F500168@ FAM
+1 _UID F0FDFD6A2ADA4802874E1F84FD2278E1
+1 CHIL @I500391@
+1 HUSB @I500392@
+1 WIFE @I500395@
+1 CHIL @I500396@
+1 CHIL @I500397@
+1 CHIL @I500398@
+1 CHIL @I500399@
+0 @I500393@ INDI
+1 NAME Vania /Damasceno Rodrigues Caldas/
+2 GIVN Vania
+2 SURN Damasceno Rodrigues Caldas
+1 SEX F
+1 BIRT
+2 DATE 5 de fevereiro de 1961
+2 PLAC Muriaé, Minas Gerais, Brazil
+1 _UID 6F38722D65B34694B396838A105F5694
+1 FAMS @F500167@
+1 FAMC @F500170@
+0 @I500394@ INDI
+1 NAME Joao Augusto /Rodrigues Caldas Varella/
+2 GIVN Joao Augusto
+2 SURN Rodrigues Caldas Varella
+1 SEX M
+1 BIRT
+2 DATE 10 de fevereiro de 1989
+2 PLAC Muriaé, Minas Gerais, Brazil
+1 _UID 2FB4F939A91C42FE8B07A5CDB23850B8
+1 FAMC @F500167@
+0 @I500395@ INDI
+1 NAME Carmen Lucia /Portilho/
+2 GIVN Carmen Lucia
+2 SURN Portilho
+1 SEX F
+1 _UID BD02DC6EC969406C8075D41FA6E42CAD
+1 FAMS @F500168@
+0 @I500396@ INDI
+1 NAME Renata /Portilho Varella/
+2 GIVN Renata
+2 SURN Portilho Varella
+1 SEX F
+1 BIRT
+2 DATE 23/02/1974
+1 _UID 6EFE7ACFC6A14E13A2FFA07A124FF5A4
+1 FAMC @F500168@
+0 @I500397@ INDI
+1 NAME Gerson /Portilho Varella/
+2 GIVN Gerson
+2 SURN Portilho Varella
+1 SEX M
+1 BIRT
+2 DATE 1959
+1 _UID AFACD114C81C4068BC108E03DF7190ED
+1 FAMC @F500168@
+1 DEAT Y
+2 PLAC 1959
+0 @I500398@ INDI
+1 NAME Luiz Carlos /Portilho Varella/
+2 GIVN Luiz Carlos
+2 SURN Portilho Varella
+1 SEX M
+1 BIRT
+2 DATE 26/09/1960
+1 _UID D9553AC165DF44ED87BAB2FC844A595A
+1 FAMC @F500168@
+0 @I500399@ INDI
+1 NAME Paulo Roberto /Portilho Varella/
+2 GIVN Paulo Roberto
+2 SURN Portilho Varella
+1 SEX M
+1 BIRT
+2 DATE 2 de janeiro de 1966
+1 _UID EE9155ED580F4B54A622262B5D57D0C5
+1 FAMC @F500168@
+1 FAMS @F500169@
+0 @I500400@ INDI
+1 NAME Margareth /de Mattos Pereira/
+2 GIVN Margareth
+2 SURN de Mattos Pereira
+1 SEX F
+1 BIRT
+2 DATE 4 de junho de 1966
+1 _UID 5214E5D3D3594D89AD55DA4DB9D187E2
+1 FAMS @F500169@
+0 @F500169@ FAM
+1 _UID F6A09B06140848A9A4C78323F7C692E2
+1 HUSB @I500399@
+1 WIFE @I500400@
+1 CHIL @I500401@
+1 CHIL @I500402@
+0 @I500401@ INDI
+1 NAME Patricia /Pereira Varella/
+2 GIVN Patricia
+2 SURN Pereira Varella
+1 SEX F
+1 BIRT
+2 DATE 03/04/19920
+1 _UID 9F2862816B9B4C64B1A0DED15E1FF4DD
+1 FAMC @F500169@
+0 @I500402@ INDI
+1 NAME Amanda /Pereira Varella/
+2 GIVN Amanda
+2 SURN Pereira Varella
+1 SEX F
+1 BIRT
+2 DATE 16 de agosto de 1995
+1 _UID 4F95CF544E6B4467A2F7BFD61BA0654B
+1 FAMC @F500169@
+0 @I500403@ INDI
+1 NAME Joao Augusto /Rodrigues Caldas/
+2 GIVN Joao Augusto
+2 SURN Rodrigues Caldas
+1 SEX M
+1 _UID 339072768DB74510ACA19BDCF1AFBAD2
+1 FAMS @F500170@
+1 DEAT Y
+2 DATE 17 de abril de 2007
+2 PLAC Muriaé, Minas Gerais, Brazil
+0 @F500170@ FAM
+1 _UID 0E5B9C62A30F4140B4BB1A5C4C169B03
+1 CHIL @I500393@
+1 HUSB @I500403@
+0 @I500404@ INDI
+1 NAME Jaqueline
+2 GIVN Jaqueline
+1 SEX F
+1 _UID A4940C8345E9423C96438EEA64F207B8
+1 FAMS @F500161@
+0 @I500405@ INDI
+1 NAME Verônica
+2 GIVN Verônica
+1 SEX F
+1 _UID AF0C93B238BA4A81A21BC7E1392D6F15
+1 FAMS @F500171@
+0 @F500171@ FAM
+1 _UID 3D210FEF787A4D8C8A7A7D789C9CF814
+1 HUSB @I500386@
+1 WIFE @I500405@
+0 @I500406@ INDI
+1 NAME Ruan
+2 GIVN Ruan
+1 SEX M
+1 _UID FBF9CBAE95E94115801B86351CADD47C
+1 FAMC @F500172@
+0 @F500172@ FAM
+1 _UID B1AB454068A24AFCAFC1B78400FD2213
+1 HUSB @I500375@
+1 CHIL @I500406@
+0 @I500407@ INDI
+1 NAME ????
+2 GIVN ????
+1 SEX M
+1 _UID 064715B104504906B7B55CA7080E2839
+1 FAMS @F500173@
+1 FAMC @F500174@
+0 @F500173@ FAM
+1 _UID 8AD9B70553654210A4633EB098816BBB
+1 CHIL @I500255@
+1 HUSB @I500407@
+1 WIFE @I500408@
+1 CHIL @I500409@
+1 CHIL @I500410@
+1 CHIL @I500411@
+0 @I500408@ INDI
+1 NAME America
+2 GIVN America
+1 SEX F
+1 _UID C9CF6453F201487785DFA63DFFD26125
+1 FAMS @F500173@
+0 @I500409@ INDI
+1 NAME Marly
+2 GIVN Marly
+1 SEX F
+1 _UID 364E48E9E96D4823B22E3AC97566E35B
+1 FAMC @F500173@
+0 @I500410@ INDI
+1 NAME Maria das Graças /Lima Gomes/
+2 GIVN Maria das Graças
+2 SURN Lima Gomes
+1 SEX F
+1 _UID 0956BA90AE1D47ADBD6830B36754CB02
+1 FAMC @F500173@
+0 @I500411@ INDI
+1 NAME Maria da Glória /Lima Gomes/
+2 GIVN Maria da Glória
+2 SURN Lima Gomes
+1 SEX F
+1 _UID 1590AD89B59749BFA481AF2060BB25AF
+1 FAMC @F500173@
+0 @I500412@ INDI
+1 NAME Joaquina??????
+2 GIVN Joaquina??????
+1 SEX F
+1 _UID 5F66756C6C204194BA6E292E16B9B02D
+1 FAMS @F500174@
+0 @F500174@ FAM
+1 _UID BA157214A24442B5B9593259469DB2B4
+1 CHIL @I500407@
+1 WIFE @I500412@
+0 @I500413@ INDI
+1 NAME Almerinda ????????
+2 GIVN Almerinda ????????
+1 SEX F
+1 _UID D244C4AFBE8942E19A90AD92D354ACDC
+1 FAMS @F500175@
+0 @F500175@ FAM
+1 _UID 12D1A4B3A8274D578881950F823CDA05
+1 CHIL @I500256@
+1 WIFE @I500413@
+0 @I500414@ INDI
+1 NAME Regina /Pontes Quesada/
+2 GIVN Regina
+2 SURN Pontes Quesada
+1 SEX F
+1 _UID C7AE5F6540C34CB8B9617B7E1BCC4F26
+1 FAMC @F500043@
+1 OBJE
+2 FILE ./media/Captura de ecrã 2026-06-18 001136.png
+3 FORM png
+3 TITL Captura de ecrã 2026 06 18 001136
+2 _PRIM Y
+2 _PERSONALPHOTO Y
+1 FAMS @F500176@
+0 @I500415@ INDI
+1 NAME Fabiana /Quesada Hallack/
+2 GIVN Fabiana
+2 SURN Quesada Hallack
+1 SEX F
+1 _UID D20E81BDE3CB4F9C86F9ABBC27912CB6
+1 FAMC @F500176@
+1 OBJE
+2 FILE ./media/Captura de ecrã 2026-06-18 001337.png
+3 FORM png
+3 TITL Captura de ecrã 2026 06 18 001337
+2 _PRIM Y
+2 _PERSONALPHOTO Y
+0 @F500176@ FAM
+1 _UID B92F0BA256664DCBA67AB371F8C8E1A0
+1 WIFE @I500414@
+1 CHIL @I500415@
+1 HUSB @I500416@
+1 CHIL @I500417@
+1 CHIL @I500428@
+0 @I500416@ INDI
+1 NAME Jose Antonio /Quesada/
+2 GIVN Jose Antonio
+2 SURN Quesada
+1 SEX M
+1 _UID CB26AB3598A144FBB1F66B00F71EEA95
+1 FAMS @F500176@
+1 OBJE
+2 FILE ./media/Captura de ecrã 2026-06-18 001532.png
+3 FORM png
+3 TITL Captura de ecrã 2026 06 18 001532
+2 _PRIM Y
+2 _PERSONALPHOTO Y
+1 DEAT Y
+0 @I500417@ INDI
+1 NAME Thais /Quesada/
+2 GIVN Thais
+2 SURN Quesada
+1 SEX F
+1 _UID 9A79D4A69D5241B6808F7D8B80484D9B
+1 FAMC @F500176@
+1 OBJE
+2 FILE ./media/Captura de ecrã 2026-06-18 001718.png
+3 FORM png
+3 TITL Captura de ecrã 2026 06 18 001718
+2 _PRIM Y
+2 _PERSONALPHOTO Y
+0 @I500418@ INDI
+1 NAME Maria Catarina /Pessoa Barbosa/
+2 GIVN Maria Catarina
+2 SURN Pessoa Barbosa
+1 SEX F
+1 BIRT
+2 DATE 08/09/1940
+1 _UID C002976AA9714D0683D4BE92A9E9DD39
+1 FAMC @F500042@
+1 OBJE
+2 FILE ./media/Captura de ecrã 2026-06-18 001836.png
+3 FORM png
+3 TITL Captura de ecrã 2026 06 18 001836
+2 _PRIM Y
+2 _PERSONALPHOTO Y
+1 FAMS @F500177@
+0 @I500419@ INDI
+1 NAME Joao Batista
+2 GIVN Joao Batista
+1 SEX M
+1 _UID 8E66A854A049476498FA646BC0E4FE3B
+1 FAMS @F500177@
+0 @F500177@ FAM
+1 _UID A2FF64FD5920475FBCD07E61D00A46AA
+1 WIFE @I500418@
+1 HUSB @I500419@
+1 CHIL @I500420@
+1 CHIL @I500421@
+1 CHIL @I500422@
+0 @I500420@ INDI
+1 NAME Ediomar
+2 GIVN Ediomar
+1 SEX M
+1 _UID DABDBC5CA96D4DEBA5FB8ED64558E2A2
+1 FAMC @F500177@
+0 @I500421@ INDI
+1 NAME Jomar
+2 GIVN Jomar
+1 SEX M
+1 _UID A55D427708F7473FB7FA9954A9AAB0C1
+1 FAMC @F500177@
+0 @I500422@ INDI
+1 NAME Nelma /Pessoa/
+2 GIVN Nelma
+2 SURN Pessoa
+1 SEX F
+1 _UID 52799A941B7B40A1BCC6F873091E2091
+1 FAMC @F500177@
+0 @I500423@ INDI
+1 NAME Fatima
+2 GIVN Fatima
+1 SEX F
+1 _UID 499E492C8B284DA28D06CA20A16F48BF
+1 FAMC @F500178@
+0 @F500178@ FAM
+1 _UID 39B6A3CD7E8A4EFA99B635D342030F6B
+1 HUSB @I500362@
+1 CHIL @I500423@
+1 CHIL @I500424@
+1 CHIL @I500425@
+0 @I500424@ INDI
+1 NAME Saete
+2 GIVN Saete
+1 SEX U
+1 _UID EC552622841A4E5B806E9D87F3690FBE
+1 FAMC @F500178@
+0 @I500425@ INDI
+1 NAME Valdo
+2 GIVN Valdo
+1 SEX M
+1 _UID D4E6960C45664C02A0D984C4FF58CACB
+1 FAMC @F500178@
+0 @I500426@ INDI
+1 NAME Esposo
+2 GIVN Esposo
+1 SEX M
+1 _UID 2E0202280A0F4E479ABCD61660B08CF3
+1 FAMS @F500179@
+0 @F500179@ FAM
+1 _UID 5A2EE0206B014D17ACB5CA4F51AC1E0E
+1 WIFE @I500363@
+1 HUSB @I500426@
+1 CHIL @I500427@
+0 @I500427@ INDI
+1 NAME Claudia
+2 GIVN Claudia
+1 SEX F
+1 _UID 9506117E7050410C98A2F7BCACCEF72D
+1 FAMC @F500179@
+0 @I500428@ INDI
+1 NAME Jose Antonio /Quesada Junior/
+2 GIVN Jose Antonio
+2 SURN Quesada Junior
+1 SEX M
+1 _UID 3A9B2580B0344A67B570C87153CEAE4A
+1 FAMC @F500176@
+1 OBJE
+2 FILE ./media/Captura de ecrã 2026-06-18 003417.png
+3 FORM png
+3 TITL Captura de ecrã 2026 06 18 003417
+2 _PRIM Y
+2 _PERSONALPHOTO Y
+0 @I500429@ INDI
+1 NAME Vera Lucia /Pontes/
+2 GIVN Vera Lucia
+2 SURN Pontes
+1 SEX F
+1 _UID 828BF7A0CC764849917C8FB59A8B7189
+1 FAMC @F500043@
+1 FAMS @F500180@
+1 OBJE
+2 FILE ./media/Captura de ecrã 2026-06-18 004312.png
+3 FORM png
+3 TITL Captura de ecrã 2026 06 18 004312
+2 _PRIM Y
+2 _PERSONALPHOTO Y
+0 @I500430@ INDI
+1 NAME Walter Alessandro /Passos/
+2 GIVN Walter Alessandro
+2 SURN Passos
+1 SEX M
+1 _UID 68D3436348664F2094DC91E16BA87F39
+1 FAMC @F500180@
+1 FAMS @F500184@
+1 OBJE
+2 FILE ./media/Captura de ecrã 2026-06-18 004622.png
+3 FORM png
+3 TITL Captura de ecrã 2026 06 18 004622
+2 _PRIM Y
+2 _PERSONALPHOTO Y
+0 @F500180@ FAM
+1 _UID 5AB017F5BB7A4110893DF8A20BC0589E
+1 WIFE @I500429@
+1 CHIL @I500430@
+1 CHIL @I500431@
+1 CHIL @I500432@
+1 HUSB @I500439@
+0 @I500431@ INDI
+1 NAME Alessandro
+2 GIVN Alessandro
+1 SEX M
+1 _UID 084594ECB6DE494E834A79D41059DB36
+1 FAMC @F500180@
+1 OBJE
+2 FILE ./media/Captura de ecrã 2026-06-18 004411.png
+3 FORM png
+3 TITL Captura de ecrã 2026 06 18 004411
+2 _PRIM Y
+2 _PERSONALPHOTO Y
+0 @I500432@ INDI
+1 NAME Claudia Regina /Pontes/
+2 GIVN Claudia Regina
+2 SURN Pontes
+1 SEX F
+1 _UID 447813D1CB7248CBBDED8128465C4292
+1 FAMC @F500180@
+1 OBJE
+2 FILE ./media/Captura de ecrã 2026-06-18 003254.png
+3 FORM png
+3 TITL Captura de ecrã 2026 06 18 003254
+2 _PRIM Y
+2 _PERSONALPHOTO Y
+0 @I500433@ INDI
+1 NAME Joao Batista /Pontes/
+2 GIVN Joao Batista
+2 SURN Pontes
+1 SEX M
+1 _UID EEA9425A3BFD44518FECBC97DAE88DF6
+1 FAMC @F500043@
+1 FAMS @F500181@
+1 OBJE
+2 FILE ./media/Captura de ecrã 2026-06-18 003219.png
+3 FORM png
+3 TITL Captura de ecrã 2026 06 18 003219
+2 _PRIM Y
+2 _PERSONALPHOTO Y
+0 @I500434@ INDI
+1 NAME Zilda /Pontes/
+2 GIVN Zilda
+2 SURN Pontes
+1 SEX F
+1 _UID 32B8228414D14CC890353990176646A5
+1 FAMS @F500181@
+0 @F500181@ FAM
+1 _UID 14FEB5993D274945AB6490FB6157A7AB
+1 HUSB @I500433@
+1 WIFE @I500434@
+1 CHIL @I500435@
+0 @I500435@ INDI
+1 NAME Joao Batista
+2 GIVN Joao Batista
+1 SEX M
+1 _UID 85CE5A8B9B7D4FF5BAEC0B6DEC2560A3
+1 FAMC @F500181@
+0 @I500436@ INDI
+1 NAME Isabel
+2 GIVN Isabel
+1 SEX F
+1 _UID 19CECB1F33754EDC99B98D6453D16F64
+1 FAMS @F500182@
+0 @F500182@ FAM
+1 _UID 7EE2ABBB45B442CA86AD3B9FAE685191
+1 HUSB @I500351@
+1 WIFE @I500436@
+1 CHIL @I500437@
+0 @I500437@ INDI
+1 NAME Carla
+2 GIVN Carla
+1 SEX F
+1 _UID 20281D1ADF814A4891045407F226FDE9
+1 FAMC @F500182@
+1 FAMS @F500183@
+0 @I500438@ INDI
+1 NAME Isaac
+2 GIVN Isaac
+1 SEX M
+1 _UID C66BD0AD059544EA9F4286A18F84C047
+1 FAMC @F500183@
+0 @F500183@ FAM
+1 _UID B9FFCA424587468EAE5949A27CF8338E
+1 WIFE @I500437@
+1 CHIL @I500438@
+0 @I500439@ INDI
+1 NAME Walter /Passos/
+2 GIVN Walter
+2 SURN Passos
+1 SEX M
+1 _UID 98F181B4A7F14A54834681FAD6A40195
+1 FAMS @F500180@
+1 DEAT Y
+0 @I500440@ INDI
+1 NAME Monica /Passos/
+2 GIVN Monica
+2 SURN Passos
+1 SEX F
+1 _UID 674B02A541C442A199E4AB4F4B514BE6
+1 FAMS @F500184@
+1 OBJE
+2 FILE ./media/Captura de ecrã 2026-06-18 004535.png
+3 FORM png
+3 TITL Captura de ecrã 2026 06 18 004535
+2 _PRIM Y
+2 _PERSONALPHOTO Y
+0 @F500184@ FAM
+1 _UID DFCC8465EAEE49FC8896A9905BF44DBA
+1 HUSB @I500430@
+1 WIFE @I500440@
 0 TRLR
